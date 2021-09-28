@@ -9,4 +9,6 @@ Purpose of this assignment.... 3-5 sentences regarding what is show / what we wa
 
 creating hypertext: http://www.yourclassical.org (just type and it'll automatically do it. 
 
+arizonagovwebsite.png (if you just do this it'll show as a filename) 
 
+![Screenshot of the Arizona Government website homepage](arizonagovwebsite.png)
