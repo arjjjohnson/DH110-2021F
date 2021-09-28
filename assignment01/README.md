@@ -1,7 +1,7 @@
-# (title of project) 
-## (your name, course info) 
+# Health & Well-being; Access to Care & Resources - Addressing Health & Educational Disparities through functional and accessible .gov webpages 
+## Amanda Johnson - DH110: User Experience & Design
 
-### Assignment01: Heuristic Evaluation of Arizona 
+### Assignment01: Heuristic Evaluation of Arizona's Department of Health & Department of Education .gov webpages
 
 ---
 
