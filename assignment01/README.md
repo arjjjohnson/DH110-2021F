@@ -1,4 +1,4 @@
-# Health & Well-being; Access to Care & Resources - Addressing Health & Educational Disparities through functional and accessible .gov webpages 
+# Health & Well-being; Access to Care & Resources - Addressing Health Disparities through functional and accessible .gov webpages 
 ## Amanda Johnson - DH110: User Experience & Design
 
 ### Assignment01: Heuristic Evaluation of Arizona's Department of Health & Department of Education .gov webpages
@@ -7,11 +7,11 @@
 
 Purpose of this assignment.... 3-5 sentences regarding what is show / what we want to show through the lens of this assignment
 
-http://www.azgov.org
+https://www.azdhs.gov/
 
 arizonagovwebsite.png (if you just do this it'll show as a filename) 
 
-![Screenshot of the Arizona Government website homepage](arizonagovwebsite.png)
+![Screenshot of the Arizona Department of Health & Services website homepage](arizonagovwebsite.png)
 
 ## Jakob Nielson's 10 Usability Heuristics & Evaluation
 
