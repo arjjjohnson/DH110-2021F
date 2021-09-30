@@ -6,6 +6,29 @@
 
 The COVID-19 pandemic will long present as one of the bleakest times in American history reaching almost 400,000 deaths from the virus alone as we pass the year mark of the declaration of a global pandemic (Centers for Disease Control and Prevention, 2021). As the pandemic continues to pose extraordinary threats to human development and fundamental disruptions to healthcare services, understanding our role and the change we can bring as innovators and developers is more important than ever. The effects for children, especially those with healthcare needs have been even more stark, with this period resulting in lack of access to needed resources and support they would often receive. Therefore, I chose to explore the Arizona's Healthcare .gov webpages as a means to identify these potential gaps and barriers to accessing the care and support they may need. 
 
+
+Jakob Neilson's [10 Usability Heuristics Explained](https://www.nngroup.com/articles/ten-usability-heuristics/)
+| ------------------------|
+| **1. Visibilty of System Status**: The design should always keep users informed about what is going on, through appropriate feedback within a reasonable amount of time. | 
+| **2. Match between System & Real World**: The design should speak the users' language. Use words, phrases, and concepts familiar to the user, rather than internal jargon. Follow real-world conventions, making information appear in a natural and logical order. |
+| **3. User Control & Freedom**: Users often perform actions by mistake. They need a clearly marked "emergency exit" to leave the unwanted action without having to go through an extended process.  | 
+| **4. Consistency & Standards**: Users should not have to wonder whether different words, situations, or actions mean the same thing. Follow platform and industry conventions.  | 
+| **5. Error Prevention**: Good error messages are important, but the best designs carefully prevent problems from occurring in the first place. Either eliminate error-prone conditions, or check for them and present users with a confirmation option before they commit to the action.  | 
+| **6. Recognition Rather than Recall**: Minimize the user's memory load by making elements, actions, and options visible. The user should not have to remember information from one part of the interface to another. Information required to use the design (e.g. field labels or menu items) should be visible or easily retrievable when needed. |
+| **7. Flexibility & Efficiency of Use**: Shortcuts — hidden from novice users — may speed up the interaction for the expert user such that the design can cater to both inexperienced and experienced users. Allow users to tailor frequent actions.  | 
+| **8. Aesthetic & Minimalist Design**: Interfaces should not contain information which is irrelevant or rarely needed. Every extra unit of information in an interface competes with the relevant units of information and diminishes their relative visibility. | Good: xx <br /> Bad: xx | Improvement: xxxxx |
+| **9. Help Users Recognize, Diagnose, & Recover from Errors**:Error messages should be expressed in plain language (no error codes), precisely indicate the problem, and constructively suggest a solution. |
+| **10. Help & Documentation**: It’s best if the system doesn’t need any additional explanation. However, it may be necessary to provide documentation to help users understand how to complete their tasks.  | 
+
+Severity Rating: Severity of Usability Problems
+| ------------------------ | 
+| 0 =  Not a problem | 
+| 1 = Cosmetic Problem Only | 
+| 2 = Minor Usability Problem | 
+| 3 = Major Usability Problem | 
+| 4 = Usability Catastrophe | 
+Credit: [NN Group](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)
+
 ---
 
 ## Webpage 1/2 [Arizona Department of Health Services](https://www.azdhs.gov/)
@@ -16,42 +39,22 @@ The Arizona Department of Health Services (ADHS) is a state funded agency that p
 ![Screenshot of the Arizona Department of Health & Services website homepage](azhealthhomepage.png)
 
 ### Evaluation
-#### Overall,the x and x are particularly concerning as they hinder the user's ability to _. 
+**Overall,** at first glance the website appears functional and updated. There seems to be an overall color scheme, most of the text is readable, there appears to be search bars and a support system for direct feedback. However, upon further evaluation (or just moving the cursor ever so slightly), some problematic concerns arise. 
 
-Jakob Neilson's 10 Usability Heuristics Explained
-| ------------------------|
-| **1. Visibilty of System Status**: The design should always keep users informed about what is going on, through appropriate feedback within a reasonable amount of time. | 
-| **2. Match between System & Real World**: The design should speak the users' language. Use words, phrases, and concepts familiar to the user, rather than internal jargon. Follow real-world conventions, making information appear in a natural and logical order. |
-| **3. User Control & Freedom**: Users often perform actions by mistake. They need a clearly marked "emergency exit" to leave the unwanted action without having to go through an extended process.  | 
-| **4. Consistency & Standards**: Users should not have to wonder whether different words, situations, or actions mean the same thing. Follow platform and industry conventions.  | 
-| **5. Error Prevention**: Good error messages are important, but the best designs carefully prevent problems from occurring in the first place. Either eliminate error-prone conditions, or check for them and present users with a confirmation option before they commit to the action.  | 
-| **6. Recognition Rather than Recall**: Minimize the user's memory load by making elements, actions, and options visible. The user should not have to remember information from one part of the interface to another. Information required to use the design (e.g. field labels or menu items) should be visible or easily retrievable when needed. |
-| **7. Flexibility & Efficiency of Use**: Shortcuts — hidden from novice users — may speed up the interaction for the expert user such that the design can cater to both inexperienced and experienced users. Allow users to tailor frequent actions.  | 
-| **8. Aesthetic & Minimalist Design**: Interfaces should not contain information which is irrelevant or rarely needed. Every extra unit of information in an interface competes with the relevant units of information and diminishes their relative visibility. | Good: xx <br /> Bad: xx | Improvement: xxxxx |
-| **9. Help Users Recognize, Diagnose, & Recover from Errors**:Error messages should be expressed in plain language (no error codes), precisely indicate the problem, and constructively suggest a solution. |
-| **10. Help & Documentation**: It’s best if the system doesn’t need any additional explanation. However, it may be necessary to provide documentation to help users understand how to complete their tasks.  | 
+While in the full screen view of the hoem page x and x are particularly concerning as they hinder the user's ability to _. 
 
-Severity Rating: Severity of Usability Problems
-| ------------------------ | 
-| 0 =  Not a problem | 
-| 1 = Cosmetic Problem Only | 
-| 2 = Minor Usability Problem | 
-| 3 = Major Usability Problem | 
-| 4 = Usability Catastrophe | 
-Credit: [NN Group](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)
-
-| Heuristic  |  Evaluation | Rating | 
-| ------------------------| --------------------------| ------------------- |
-| **1. Visibilty of System Status** | Good: xx <br /> Bad: xx | Improvement: xxxxx | 
-| **2. Match between System & Real World** | Good: xx <br /> Bad: xx | Improvement: xxxxx |
-| **3. User Control & Freedom** | Good: xx <br /> Bad: xx | Improvement: xxxxx |
-| **4. Consistency & Standards** | Good: xx <br /> Bad: xx | Improvement: xxxxx |
-| **5. Error Prevention** | Good: xx <br /> Bad: xx | Improvement: xxxxx |
-| **6. Recognition Rather than Recall** | Good: xx <br /> Bad: xx | Improvement: xxxxx |
-| **7. Flexibility & Efficiency of Use**  | Good: xx <br />   Bad: xx | Improvement: xxxxx |
-| **8. Aesthetic & Minimalist Design**: | Good: xx <br /> Bad: xx | Improvement: xxxxx |
-| **9. Help Users Recognize, Diagnose, & Recover from Errors** | Good: xx <br /> Bad: xx | Improvement: xxxxx |
-| **10. Help & Documentation** | Good: xx <br />  Bad: xx | Improvement: xxxxx |
+| Rating |  Evaluation | 
+| ------------------------| --------------------------|
+| 2 | *Visibilty of System Status* <br /> Good: The webpage has a clear search bar to help you navigate to specific areas within as well as a feedback and support button readily available for users. <br /> Bad: Immediately on the homepage you are presented with information regarding 'COVID-19' however, it is not clear how to navigate the webpage other pages within, information or resources. Further, when your cursor goes over the toolbar the website starts to glitch and makes it nearly impossible to click on important content  | 
+| # | *Match between System & Real World* <br />Good: xx <br /> Bad: xx |
+| # | *User Control & Freedom* <br /> Good: xx <br /> Bad: xx | 
+| # | *Consistency & Standards* <br /> Good: xx <br /> Bad: xx | 
+| # | *Error Prevention* <br /> Good: xx <br /> Bad: xx | 
+| # | *Recognition Rather than Recall* <br /> Good: xx <br /> Bad: xx | 
+| # | *Flexibility & Efficiency of Use* <br /> Good: xx <br />   Bad: xx | 
+| # | *Aesthetic & Minimalist Design* <br /> Good: xx <br /> Bad: xx | 
+| # | *Help Users Recognize, Diagnose, & Recover from Errors* | Good: xx <br /> Bad: xx | 
+| # | *Help & Documentation* | Good: xx <br />  Bad: xx | 
 
 
 ## Webpage 2/2 [Arizona Department of Health Services (ADHS)](https://www.azdhs.gov/audiences/index.php#children-home)
@@ -62,40 +65,18 @@ The Arizona Department of Health Services (ADHS) subsection, Children, focuses o
 ![Screenshot of the Arizona Department of Health & Services website 'Children - Home'](azhealthchildren.png)
 
 ### Evaluation
-#### Overall, xxxx
+**Overall,** 
 
 
-Jakob Neilson's 10 Usability Heuristics Explained
-| ------------------------|
-| **1. Visibilty of System Status**: The design should always keep users informed about what is going on, through appropriate feedback within a reasonable amount of time. | 
-| **2. Match between System & Real World**: The design should speak the users' language. Use words, phrases, and concepts familiar to the user, rather than internal jargon. Follow real-world conventions, making information appear in a natural and logical order. |
-| **3. User Control & Freedom**: Users often perform actions by mistake. They need a clearly marked "emergency exit" to leave the unwanted action without having to go through an extended process.  | 
-| **4. Consistency & Standards**: Users should not have to wonder whether different words, situations, or actions mean the same thing. Follow platform and industry conventions.  | 
-| **5. Error Prevention**: Good error messages are important, but the best designs carefully prevent problems from occurring in the first place. Either eliminate error-prone conditions, or check for them and present users with a confirmation option before they commit to the action.  | 
-| **6. Recognition Rather than Recall**: Minimize the user's memory load by making elements, actions, and options visible. The user should not have to remember information from one part of the interface to another. Information required to use the design (e.g. field labels or menu items) should be visible or easily retrievable when needed. |
-| **7. Flexibility & Efficiency of Use**: Shortcuts — hidden from novice users — may speed up the interaction for the expert user such that the design can cater to both inexperienced and experienced users. Allow users to tailor frequent actions.  | 
-| **8. Aesthetic & Minimalist Design**: Interfaces should not contain information which is irrelevant or rarely needed. Every extra unit of information in an interface competes with the relevant units of information and diminishes their relative visibility. | Good: xx <br /> Bad: xx | Improvement: xxxxx |
-| **9. Help Users Recognize, Diagnose, & Recover from Errors**:Error messages should be expressed in plain language (no error codes), precisely indicate the problem, and constructively suggest a solution. |
-| **10. Help & Documentation**: It’s best if the system doesn’t need any additional explanation. However, it may be necessary to provide documentation to help users understand how to complete their tasks.  | 
-
-Severity Rating: Severity of Usability Problems
-| ------------------------ | 
-| 0 =  Not a problem | 
-| 1 = Cosmetic Problem Only | 
-| 2 = Minor Usability Problem | 
-| 3 = Major Usability Problem | 
-| 4 = Usability Catastrophe | 
-Credit: [NN Group](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)
-
-| Heuristic  | Evaluation | Rating | 
-| ------------------------| --------------------------| ------------------- |
-| **1. Visibilty of System Status** | Good: xx <br /> Bad: xx | Improvement: xxxxx | 
-| **2. Match between System & Real World** | Good: xx <br /> Bad: xx | Improvement: xxxxx |
-| **3. User Control & Freedom** | Good: xx <br /> Bad: xx | Improvement: xxxxx |
-| **4. Consistency & Standards** | Good: xx <br /> Bad: xx | Improvement: xxxxx |
-| **5. Error Prevention** | Good: xx <br /> Bad: xx | Improvement: xxxxx |
-| **6. Recognition Rather than Recall** | Good: xx <br /> Bad: xx | Improvement: xxxxx |
-| **7. Flexibility & Efficiency of Use**  | Good: xx <br />   Bad: xx | Improvement: xxxxx |
-| **8. Aesthetic & Minimalist Design**: | Good: xx <br /> Bad: xx | Improvement: xxxxx |
-| **9. Help Users Recognize, Diagnose, & Recover from Errors** | Good: xx <br /> Bad: xx | Improvement: xxxxx |
-| **10. Help & Documentation** | Good: xx <br />  Bad: xx | Improvement: xxxxx |
+| Rating |  Evaluation | 
+| ------------------------| --------------------------|
+| 2 | *Visibilty of System Status* <br /> Good: The webpage has a clear search bar to help you navigate to specific areas within as well as a feedback and support button readily available for users. <br /> Bad: Immediately on the homepage you are presented with information regarding 'COVID-19' however, it is not clear how to navigate the webpage other pages within, information or resources. Further, when your cursor goes over the toolbar the website starts to glitch and makes it nearly impossible to click on important content  | 
+| # | *Match between System & Real World* <br />Good: xx <br /> Bad: xx |
+| # | *User Control & Freedom* <br /> Good: xx <br /> Bad: xx | 
+| # | *Consistency & Standards* <br /> Good: xx <br /> Bad: xx | 
+| # | *Error Prevention* <br /> Good: xx <br /> Bad: xx | 
+| # | *Recognition Rather than Recall* <br /> Good: xx <br /> Bad: xx | 
+| # | *Flexibility & Efficiency of Use* <br /> Good: xx <br />   Bad: xx | 
+| # | *Aesthetic & Minimalist Design* <br /> Good: xx <br /> Bad: xx | 
+| # | *Help Users Recognize, Diagnose, & Recover from Errors* | Good: xx <br /> Bad: xx | 
+| # | *Help & Documentation* | Good: xx <br />  Bad: xx | 
