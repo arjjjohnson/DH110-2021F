@@ -1,19 +1,19 @@
 # Health & Well-being; Access to Care & Resources - Addressing Health Disparities through functional and accessible .gov webpages 
 ## Amanda Johnson - DH110: User Experience & Design
 
-### Assignment01: Heuristic Evaluation of Arizona's Department of Health & Department of Education .gov webpages
+### Assignment01: Heuristic Evaluation of Arizona's Department of Health .gov webpages
 
 ---
 
 Purpose of this assignment.... 3-5 sentences regarding what is show / what we want to show through the lens of this assignment
 
-# Webpage 1/2
+## Webpage 1/2
 
 ### Arizona Department of Health Services
 #### Health and Wellness for All Arizonans 
 https://www.azdhs.gov/
 
-The Arizona Department of Health Services (DHS) is a state funded agency that provides health services to the State's population. The image below shows the homepage of the DHS is dedicated to providing up to date information and resources to ensure the health and safety of the people of Arizona. With the current climate of the United States, this homepage focuses on the novel COVID-19 pandemic, and primarily focuses on access to resources and guidance related to the pandemic. 
+The Arizona Department of Health Services (ADHS) is a state funded agency that provides health services to the State's population. The image below shows the homepage of the ADHS is dedicated to providing up to date information and resources to ensure the health and safety of the people of Arizona. With the current climate of the United States, this homepage focuses on the novel COVID-19 pandemic, and primarily focuses on access to resources and guidance related to the pandemic. 
 
 ![Screenshot of the Arizona Department of Health & Services website homepage](azhealthhomepage.png)
 
@@ -47,15 +47,15 @@ Jakob Neilson's 10 Usability Heuristics Explained
 | **10. Help & Documentation** | Good: xx <br />  Bad: xx | Improvement: xxxxx |
 
 
-# Webpage 2/2
+## Webpage 2/2
 
-### Arizona Department of Health Services
-#### Health and Wellness for All Arizonans 
-https://www.azdhs.gov/
+### Arizona Department of Health Services (ADHS)
+#### Children Resources
+https://www.azdhs.gov/audiences/index.php#children-home
 
-The Arizona Department of Health Services (DHS) is a state funded agency that provides health services to the State's population. The image below shows the homepage of the DHS is dedicated to providing up to date information and resources to ensure the health and safety of the people of Arizona. With the current climate of the United States, this homepage focuses on the novel COVID-19 pandemic, and primarily focuses on access to resources and guidance related to the pandemic. 
+The Arizona Department of Health Services (ADHS) subsection, Children, focuses on providing parents with resources and information regarding their children. The ADHS states "protecting the health and wellbeing of your children and teaching them to be advocates of their health is one of the most important things you can do." Therefore, the purpose of this webpage is to empower parents to be the best resource and advocate for their children. 
 
-![Screenshot of the Arizona Department of Health & Services website homepage](azhealthhomepage.png)
+![Screenshot of the Arizona Department of Health & Services website 'Children - Home'](azhealthchildren.png)
 
 ## Evaluation
 #### Overall, 
