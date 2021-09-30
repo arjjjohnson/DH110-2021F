@@ -42,7 +42,7 @@ The Arizona Department of Health Services (ADHS) is a state funded agency that p
 While in the full screen view of the hoem page x and x are particularly concerning as they hinder the user's ability to _. 
 
 | Rating |  Evaluation | 
-| ------------------------| :--------------------------:|
+| ------------------------|--------------------------|
 | 2 | *Visibilty of System Status* <br /> **Good**: The webpage has a clear search bar to help you navigate to specific areas within as well as a feedback and support button readily available for users. <br /> **Bad**: Immediately on the homepage you are presented with information regarding 'COVID-19' however, it is not clear how to navigate the webpage other pages within, information or resources. Further, when your cursor goes over the toolbar the website starts to glitch and makes it nearly impossible to click on important content  | 
 | 3 | *Match between System & Real World* <br />**Good**: Terminology and language seems appropriate for the context. The webpage also discusses relevant topics. <br /> **Bad**: The list of dates on the events for the week and calendar feature are not accurate, meaning a lot of misinformation about current events is being shared. Furthermore, the functionality of the maps are unclear as well as unrealistic |
 | 3 | *User Control & Freedom* <br /> **Good**: For the most part the back button seems functional <br /> **Bad**: There are a few areas where it is difficult to get back to the original page you started on as well as some broken links which do not allow you to return back. | 
@@ -51,8 +51,8 @@ While in the full screen view of the hoem page x and x are particularly concerni
 | 2 | *Recognition Rather than Recall* <br /> **Good**: Each page has a title or header which allows users to remember what specific page they are on <br /> **Bad**: Unclear which sites you've already navigated to, how you ended up at the specific page (the steps and clicks made by the user) and which terms have been searched. There are multiple ways to get to each page which would be difficult for the user to navigate. | 
 | 2 | *Flexibility & Efficiency of Use* <br /> **Good**: The google searchbar at the top of the homepage allows users to immediate search for their page rather than having to navigate the site. <br />   **Bad**: Advanced options and overall website capabilities are extremely unclear. | 
 | 3 | *Aesthetic & Minimalist Design* <br /> **Good**: Cohesive color scheme  <br /> **Bad**: Inconsistent text sizes, too much or too little text throughout each page (especially the homepage). The photos have text over them which is difficult to read. There is a lot going on, especially with the amount of links and the various maps that seem to take over the whole page. | 
-| 3 | *Help Users Recognize, Diagnose, & Recover from Errors* | **Good**: Error messages appear, for example, "this pathway is broken" <br /> **Bad**: The error messages do not bring the users back to the previous page or allow for many additional options which leaves users to have to navigate to the mainpage again and lose any and all progress | 
-| 3 | *Help & Documentation* | **Good**: There is an available 'Feedback & Support button' <br />  **Bad**: Upon clicking on this button the users are directed to a pop-up which only contains information regarding feedback. This feature seems extremely outdated and unusable | 
+| 3 | *Help Users Recognize, Diagnose, & Recover from Errors* <br /> **Good**: Error messages appear, for example, "this pathway is broken" <br /> **Bad**: The error messages do not bring the users back to the previous page or allow for many additional options which leaves users to have to navigate to the mainpage again and lose any and all progress | 
+| 3 | *Help & Documentation* <br /> **Good**: There is an available 'Feedback & Support button' <br />  **Bad**: Upon clicking on this button the users are directed to a pop-up which only contains information regarding feedback. This feature seems extremely outdated and unusable | 
 
 
 ## Webpage 2/2 [Arizona Department of Health Services (ADHS)](https://www.azdhs.gov/audiences/index.php#children-home)
@@ -63,7 +63,21 @@ The Arizona Department of Health Services (ADHS) subsection, Children, focuses o
 ![Screenshot of the Arizona Department of Health & Services website 'Children - Home'](azhealthchildren.png)
 
 ### Evaluation
-**Overall,** 
+**Overall,** this webpage appears to be less busy than the homepage we were previously on. However, there is seemingly a lot of missing information. For example, there seems to be only information. This page may be more difficult to navigate than the previous one. 
+
+
+| Rating |  Evaluation | 
+| ------------------------|--------------------------|
+| 2 | *Visibilty of System Status* <br /> **Good**: The webpage has a clear search bar to help you navigate to specific areas within as well as a feedback and support button readily available for users. <br /> **Bad**: Immediately on the homepage you are presented with information regarding 'COVID-19' however, it is not clear how to navigate the webpage other pages within, information or resources. Further, when your cursor goes over the toolbar the website starts to glitch and makes it nearly impossible to click on important content  | 
+| 3 | *Match between System & Real World* <br />**Good**: Terminology and language seems appropriate for the context. The webpage also discusses relevant topics. <br /> **Bad**: The list of dates on the events for the week and calendar feature are not accurate, meaning a lot of misinformation about current events is being shared. Furthermore, the functionality of the maps are unclear as well as unrealistic |
+| 3 | *User Control & Freedom* <br /> **Good**: For the most part the back button seems functional <br /> **Bad**: There are a few areas where it is difficult to get back to the original page you started on as well as some broken links which do not allow you to return back. | 
+| 2 | *Consistency & Standards* <br /> **Good**: The red text indicates a hyperlink and is different from original text body <br /> **Bad**: Not a lot of consistency, each page looks different from the last besides the toolbar and color scheme. There are quite a few sections that are missing that I would normally expect of a website of this caliber. | 
+| 1 | *Error Prevention* <br /> **Good**: There is little opportunity for the user to have an error in saving or submitting, little risk associated. <br /> **Bad**: With the glitch that comes with hoovering the cursor over the navigation toolbar, users may click the wrong link then experience a difficult time navigating back to the previous page. | 
+| 2 | *Recognition Rather than Recall* <br /> **Good**: Each page has a title or header which allows users to remember what specific page they are on <br /> **Bad**: Unclear which sites you've already navigated to, how you ended up at the specific page (the steps and clicks made by the user) and which terms have been searched. There are multiple ways to get to each page which would be difficult for the user to navigate. | 
+| 2 | *Flexibility & Efficiency of Use* <br /> **Good**: The google searchbar at the top of the homepage allows users to immediate search for their page rather than having to navigate the site. <br />   **Bad**: Advanced options and overall website capabilities are extremely unclear. | 
+| 3 | *Aesthetic & Minimalist Design* <br /> **Good**: Cohesive color scheme  <br /> **Bad**: Inconsistent text sizes, too much or too little text throughout each page (especially the homepage). The photos have text over them which is difficult to read. There is a lot going on, especially with the amount of links and the various maps that seem to take over the whole page. | 
+| 3 | *Help Users Recognize, Diagnose, & Recover from Errors* <br /> **Good**: Error messages appear, for example, "this pathway is broken" <br /> **Bad**: The error messages do not bring the users back to the previous page or allow for many additional options which leaves users to have to navigate to the mainpage again and lose any and all progress | 
+| 3 | *Help & Documentation* <br /> **Good**: There is an available 'Feedback & Support button' <br />  **Bad**: Upon clicking on this button the users are directed to a pop-up which only contains information regarding feedback. This feature seems extremely outdated and unusable | 
 
 
 | Rating |  Evaluation | 
