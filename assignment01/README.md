@@ -7,6 +7,8 @@
 
 Purpose of this assignment.... 3-5 sentences regarding what is show / what we want to show through the lens of this assignment
 
+# Webpage 1/2
+
 ### Arizona Department of Health Services
 #### Health and Wellness for All Arizonans 
 https://www.azdhs.gov/
@@ -34,18 +36,30 @@ Jakob Neilson's 10 Usability Heuristics Explained
 | Heuristic  | .gov Heuristic Evaluation | Possible Solutions / Improvements | 
 | ------------------------| --------------------------| ------------------- |
 | **1. Visibilty of System Status** | Good: xx <br /> Bad: xx | Improvement: xxxxx | 
-| **Match between System & Real World** | Good: xx <br /> Bad: xx | Improvement: xxxxx |
-| **User Control & Freedom** | Good: xx <br /> Bad: xx | Improvement: xxxxx |
-| **Consistency & Standards** | Good: xx <br /> Bad: xx | Improvement: xxxxx |
-| **Error Prevention** | Good: xx <br /> Bad: xx | Improvement: xxxxx |
-| **Recognition Rather than Recall** | Good: xx <br /> Bad: xx | Improvement: xxxxx |
-| **Flexibility & Efficiency of Use**  | Good: xx <br />   Bad: xx | Improvement: xxxxx |
-| **Aesthetic & Minimalist Design**: | Good: xx <br /> Bad: xx | Improvement: xxxxx |
-| **Help Users Recognize, Diagnose, & Recover from Errors** | Good: xx <br /> Bad: xx | Improvement: xxxxx |
-| **Help & Documentation** | Good: xx <br />  Bad: xx | Improvement: xxxxx |
+| **2. Match between System & Real World** | Good: xx <br /> Bad: xx | Improvement: xxxxx |
+| **3. User Control & Freedom** | Good: xx <br /> Bad: xx | Improvement: xxxxx |
+| **4. Consistency & Standards** | Good: xx <br /> Bad: xx | Improvement: xxxxx |
+| **5. Error Prevention** | Good: xx <br /> Bad: xx | Improvement: xxxxx |
+| **6. Recognition Rather than Recall** | Good: xx <br /> Bad: xx | Improvement: xxxxx |
+| **7. Flexibility & Efficiency of Use**  | Good: xx <br />   Bad: xx | Improvement: xxxxx |
+| **8. Aesthetic & Minimalist Design**: | Good: xx <br /> Bad: xx | Improvement: xxxxx |
+| **9. Help Users Recognize, Diagnose, & Recover from Errors** | Good: xx <br /> Bad: xx | Improvement: xxxxx |
+| **10. Help & Documentation** | Good: xx <br />  Bad: xx | Improvement: xxxxx |
 
 
-# PART 2
+# Webpage 2/2
+
+### Arizona Department of Health Services
+#### Health and Wellness for All Arizonans 
+https://www.azdhs.gov/
+
+The Arizona Department of Health Services (DHS) is a state funded agency that provides health services to the State's population. The image below shows the homepage of the DHS is dedicated to providing up to date information and resources to ensure the health and safety of the people of Arizona. With the current climate of the United States, this homepage focuses on the novel COVID-19 pandemic, and primarily focuses on access to resources and guidance related to the pandemic. 
+
+![Screenshot of the Arizona Department of Health & Services website homepage](azhealthhomepage.png)
+
+## Evaluation
+#### Overall, 
+
 
 Jakob Neilson's 10 Usability Heuristics Explained
 | ------------------------|
@@ -63,12 +77,12 @@ Jakob Neilson's 10 Usability Heuristics Explained
 | Heuristic  | .gov Heuristic Evaluation | Possible Solutions / Improvements | 
 | ------------------------| --------------------------| ------------------- |
 | **1. Visibilty of System Status** | Good: xx <br /> Bad: xx | Improvement: xxxxx | 
-| **Match between System & Real World** | Good: xx <br /> Bad: xx | Improvement: xxxxx |
-| **User Control & Freedom** | Good: xx <br /> Bad: xx | Improvement: xxxxx |
-| **Consistency & Standards** | Good: xx <br /> Bad: xx | Improvement: xxxxx |
-| **Error Prevention** | Good: xx <br /> Bad: xx | Improvement: xxxxx |
-| **Recognition Rather than Recall** | Good: xx <br /> Bad: xx | Improvement: xxxxx |
-| **Flexibility & Efficiency of Use**  | Good: xx <br />   Bad: xx | Improvement: xxxxx |
-| **Aesthetic & Minimalist Design**: | Good: xx <br /> Bad: xx | Improvement: xxxxx |
-| **Help Users Recognize, Diagnose, & Recover from Errors** | Good: xx <br /> Bad: xx | Improvement: xxxxx |
-| **Help & Documentation** | Good: xx <br />  Bad: xx | Improvement: xxxxx |
+| **2. Match between System & Real World** | Good: xx <br /> Bad: xx | Improvement: xxxxx |
+| **3. User Control & Freedom** | Good: xx <br /> Bad: xx | Improvement: xxxxx |
+| **4. Consistency & Standards** | Good: xx <br /> Bad: xx | Improvement: xxxxx |
+| **5. Error Prevention** | Good: xx <br /> Bad: xx | Improvement: xxxxx |
+| **6. Recognition Rather than Recall** | Good: xx <br /> Bad: xx | Improvement: xxxxx |
+| **7. Flexibility & Efficiency of Use**  | Good: xx <br />   Bad: xx | Improvement: xxxxx |
+| **8. Aesthetic & Minimalist Design**: | Good: xx <br /> Bad: xx | Improvement: xxxxx |
+| **9. Help Users Recognize, Diagnose, & Recover from Errors** | Good: xx <br /> Bad: xx | Improvement: xxxxx |
+| **10. Help & Documentation** | Good: xx <br />  Bad: xx | Improvement: xxxxx |
