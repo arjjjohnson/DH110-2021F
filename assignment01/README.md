@@ -18,7 +18,7 @@ The Arizona Department of Health Services (ADHS) is a state funded agency that p
 ![Screenshot of the Arizona Department of Health & Services website homepage](azhealthhomepage.png)
 
 ## Evaluation
-#### Overall, 
+#### Overall, xxx
 
 Jakob Neilson's 10 Usability Heuristics Explained
 | ------------------------|
@@ -32,6 +32,14 @@ Jakob Neilson's 10 Usability Heuristics Explained
 | **Aesthetic & Minimalist Design**: Interfaces should not contain information which is irrelevant or rarely needed. Every extra unit of information in an interface competes with the relevant units of information and diminishes their relative visibility. | Good: xx <br /> Bad: xx | Improvement: xxxxx |
 | **Help Users Recognize, Diagnose, & Recover from Errors**:Error messages should be expressed in plain language (no error codes), precisely indicate the problem, and constructively suggest a solution. |
 | **Help & Documentation**: It’s best if the system doesn’t need any additional explanation. However, it may be necessary to provide documentation to help users understand how to complete their tasks.  | 
+
+Severity Rating: Severity of Usability Problems
+| ------------------------ | 
+| 0 =  Not a problem | 
+| 1 = Cosmetic Problem Only | 
+| 2 = Minor Usability Problem | 
+| 3 = Major Usability Problem | 
+| 4 = Usability Catastrophe | 
 
 | Heuristic  | .gov Heuristic Evaluation | Possible Solutions / Improvements | 
 | ------------------------| --------------------------| ------------------- |
@@ -58,7 +66,7 @@ The Arizona Department of Health Services (ADHS) subsection, Children, focuses o
 ![Screenshot of the Arizona Department of Health & Services website 'Children - Home'](azhealthchildren.png)
 
 ## Evaluation
-#### Overall, 
+#### Overall, xxxx
 
 
 Jakob Neilson's 10 Usability Heuristics Explained
@@ -73,6 +81,14 @@ Jakob Neilson's 10 Usability Heuristics Explained
 | **Aesthetic & Minimalist Design**: Interfaces should not contain information which is irrelevant or rarely needed. Every extra unit of information in an interface competes with the relevant units of information and diminishes their relative visibility. | Good: xx <br /> Bad: xx | Improvement: xxxxx |
 | **Help Users Recognize, Diagnose, & Recover from Errors**:Error messages should be expressed in plain language (no error codes), precisely indicate the problem, and constructively suggest a solution. |
 | **Help & Documentation**: It’s best if the system doesn’t need any additional explanation. However, it may be necessary to provide documentation to help users understand how to complete their tasks.  | 
+
+Severity Rating: Severity of Usability Problems
+| ------------------------ | 
+| 0 =  Not a problem | 
+| 1 = Cosmetic Problem Only | 
+| 2 = Minor Usability Problem | 
+| 3 = Major Usability Problem | 
+| 4 = Usability Catastrophe | 
 
 | Heuristic  | .gov Heuristic Evaluation | Possible Solutions / Improvements | 
 | ------------------------| --------------------------| ------------------- |
