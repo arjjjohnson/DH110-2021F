@@ -15,10 +15,10 @@ Jakob Neilson's [10 Usability Heuristics Explained](https://www.nngroup.com/arti
 | **4. Consistency & Standards**: Users should not have to wonder whether different words, contexts, or actions mean the same thing. These should meet industry standards that are expected by the user  | 
 | **5. Error Prevention**: Provide enough clarity on the webpage so users are not questioning their actions and whether these actions will result in an error. Have an available check embedded for them and present users with a confirmation option before they commit to an action (if this cannot be prevented in the first place).  | 
 | **6. Recognition Rather than Recall**: Minimize the user's memory load by making elements, actions, and options visible. The user should not have to remember information from one part of the interface to another. Information required to use the design (e.g. field labels or menu items) should be visible or easily retrievable when needed. |
-| **7. Flexibility & Efficiency of Use**: Shortcuts — hidden from novice users — may speed up the interaction for the expert user such that the design can cater to both inexperienced and experienced users. Allow users to tailor frequent actions.  | 
-| **8. Aesthetic & Minimalist Design**: Interfaces should not contain information which is irrelevant or rarely needed. Every extra unit of information in an interface competes with the relevant units of information and diminishes their relative visibility. |
+| **7. Flexibility & Efficiency of Use**: The design should be easier to use for all the user groups. | 
+| **8. Aesthetic & Minimalist Design**: Grab users attention towards the action need to be done there. |
 | **9. Help Users Recognize, Diagnose, & Recover from Errors**: Error messages should be clear and easy to understand and intrepret (wihtout code), while explaining the issue and the solution to move forward. |
-| **10. Help & Documentation**: Ideally, the user is able to intuitively explore the site through past experience and clear directions (without explanation), however, it may be beneficial to provide documentment for users that may be unsure.  7 & 8 | 
+| **10. Help & Documentation**: Ideally, the user is able to intuitively explore the site through past experience and clear directions (without explanation), however, it may be beneficial to provide documentment for users that may be unsure.  | 
 
 Severity Rating: Severity of Usability Problems
 | ------------------------ | 
@@ -37,9 +37,7 @@ The Arizona Department of Health Services (ADHS) is a state funded agency that p
 ![Screenshot of the Arizona Department of Health & Services website homepage](azhealthhomepage.png)
 
 ### Evaluation
-**Overall,** at first glance the website appears functional and updated. There seems to be an overall color scheme, most of the text is readable, there appears to be search bars and a support system for direct feedback. However, upon further evaluation (or just moving the cursor ever so slightly), some problematic concerns arise. 
-
-While in the full screen view of the hoem page x and x are particularly concerning as they hinder the user's ability to _. 
+**Overall,** at first glance the website appears functional and updated. There seems to be an overall color scheme, most of the text is readable, there appears to be search bars and a support system for direct feedback. However, upon further evaluation (or just moving the cursor ever so slightly), some problematic concerns arise. For example, in the full screen view of the homepage the toolbar disappears and the visual design are particularly concerning as they hinder the user's ability to navigate to any webpages beyond COVID-19 information. 
 
 | Rating |  Evaluation | 
 | ------------------------|--------------------------|
@@ -63,18 +61,17 @@ The Arizona Department of Health Services (ADHS) subsection, Children, focuses o
 ![Screenshot of the Arizona Department of Health & Services website 'Children - Home'](azhealthchildren.png)
 
 ### Evaluation
-**Overall,** this webpage appears to be less busy than the homepage we were previously on. However, there is seemingly a lot of missing information. For example, there seems to be only information. This page may be more difficult to navigate than the previous one. 
-
+**Overall,** this webpage appears to be less busy than the homepage we were previously on. However, there is seemingly a lot of missing information. For example, there seems to be only information for children 0-11 which forces users to navigate a different page to find information on 12-18 year olds. This page may be more difficult to navigate than the previous one as the choices are not clear and there is a variety of links (most of which do not properly function).
 
 | Rating |  Evaluation | 
 | ------------------------| --------------------------|
-| 2 | *Visibilty of System Status* <br /> Good: There is a progress bar which is meant to show the user where they are in the site. Pages seem to move quickly and it seems apparent the status of the page <br /> Bad: There is no visible loading bar when clicking on links or downloading additional files. | 
-| 1 | *Match between System & Real World* <br /> Good: There does seem to be a relatable photo of a child, which is the subsection of this webpage. <br /> Bad: There is only one photo available and it doesn't relate much to children as a whole. There isn't additional text to explain the photo. |
-| # | *User Control & Freedom* <br /> Good: xx <br /> Bad: xx | 
-| # | *Consistency & Standards* <br /> Good: xx <br /> Bad: xx | 
-| # | *Error Prevention* <br /> Good: xx <br /> Bad: xx | 
-| # | *Recognition Rather than Recall* <br /> Good: xx <br /> Bad: xx | 
-| # | *Flexibility & Efficiency of Use* <br /> Good: xx <br />   Bad: xx | 
-| # | *Aesthetic & Minimalist Design* <br /> Good: xx <br /> Bad: xx | 
-| # | *Help Users Recognize, Diagnose, & Recover from Errors* | Good: xx <br /> Bad: xx | 
-| # | *Help & Documentation* | Good: xx <br />  Bad: xx | 
+| 2 | *Visibilty of System Status* <br /> **Good**: There is a progress bar which is meant to show the user where they are in the site. Pages seem to move quickly and it seems apparent the status of the page <br /> **Bad**: There is no visible loading bar when clicking on links or downloading additional files. | 
+| 3 | *Match between System & Real World* <br /> **Good**: There does seem to be a relatable photo of a child, which is the subsection of this webpage. <br /> **Bad**: There is only one photo available and it doesn't relate much to children as a whole. There isn't additional text to explain the photo. There is also a lot of missing information as the webpage only has information for 0-11, to find information on 12-18 you must navigate to a different weboage.|
+| 1 | *User Control & Freedom* <br /> **Good**: There is seemingly a lot of control throughout the webpage. <br /> **Bad**: There isn't an undo button or any way to confirm you submission. | 
+| 2 | *Consistency & Standards* <br /> **Good**: Some of the toolbars and help buttons stay the same throughout. This site also utilizes icons to indicate which bar is the search bar vs. whcih bar is the email signup bar <br /> **Bad**: There is a lot going on that is inconsistent across pages. This page is very different from the homepage so the user is forced to relearn how to navigate each page. | 
+| 2 | *Error Prevention* <br /> **Good**: The ability to go back to the previous page is available. <br /> **Bad**: This action doesn't perform consistently. It'll on rare occassion take you back to the main page, however, it typically takes you back to the homepage without an error message or a solution. | 
+| 3 | *Recognition Rather than Recall* <br /> **Good**: The navigation toolbar stays fixes which allows users to remember the available pages to search through. <br /> **Bad**: The text moves around a lot with each click which forces users to constantly look around and doesn't facilitate recall. Further, the webpages change styles from page to page which doesn't allow the user to recall and facilitate easier navigation of the website. | 
+| 3 | *Flexibility & Efficiency of Use* <br /> **Good**: Content is located in various areas, this doesn't help with the ease of navigation, but it does allow flexibility to get to different content faster and more efficiently. <br />   **Bad**: The webpage is not very flexible. If there is a mistake you typically have to start back at the home page. The website is not the most intuitive and forces users to make decisions they are not very sure about. | 
+| 2 | *Aesthetic & Minimalist Design* <br /> **Good:** There is seemingly more consistency with the color scheme and aesthetics. <br /> **Bad**: Not very visially appealing. Still a lot of text on the pages and portions of the text are fairly unreadable with the color and contrast decisions. | 
+| 2 | *Help Users Recognize, Diagnose, & Recover from Errors* <br /> **Good**: Error messages appear, for example, "this pathway is broken" <br /> **Bad**: The error messages do not bring the users back to the previous page or allow for many additional options which leaves users to have to navigate to the mainpage again and lose any and all progress | 
+| 3 | *Help & Documentation* <br /> **Good**: There is an available 'Feedback & Support button.' <br />  **Bad**: Upon clicking on this button the users are directed to a pop-up which only contains information regarding feedback. This feature seems extremely outdated and unusable. Additionally, there is a statement that says "any documents downloaded from this webpage are unofficial and not binding on this state or political subdivision of this state" which doesn't bolster confidence in user. | 
