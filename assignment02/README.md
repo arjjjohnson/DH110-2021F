@@ -3,7 +3,7 @@
 ## Usability Evaluation of Arizona's Child & Teen Healthcare webpages.
 For this usability pilot test, I recruited a 27 year old female to navigate through various tasks using the Arizona Child & Teen healthcare pages. Although this participant does not have children of her own yet, I knew she would be an ideal candidate for this pilot as she would have an above average knowledge of various websites. Futhermore, throughout our introductions I learned that this participant works within Human Resources and focuses on resource access and data analytics, therefore, deeming her to be considered more of an expert than an average user. 
 
-Child & Teen Health and Wellness (childteenhealth.png)
+[Child & Teen Health and Wellness](childteenhealth.png)
 
 #### Survey 
 Google forms were the primary form of data collection for this pilot UT. The recording follows this script and questionnaire. 
