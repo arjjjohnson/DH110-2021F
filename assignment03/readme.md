@@ -8,3 +8,9 @@ Amanda Johnson
 
 Learning from people in context
 ---
+
+# Introduction Steps 
+
+✅ Step 1: Specify the main design challenge
+>asd 
+
