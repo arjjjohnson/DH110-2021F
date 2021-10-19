@@ -58,12 +58,18 @@ Stakeholders
 -- Researchers
 -- Developers
 
-What? Autism is a neurodevelopmental disorder, characterized by deficits in social interactions and restricted, repetitive behaviors 
-Why? Current prevalence is 1 in 54 individuals, lack of services, lack of support with transition to remote environment
-Where? Google Form Survey, Designed for feedback 
-Purpose? Understand the context & gather direct insight to the problem
-Who? 49 Respondents; 67% Educators or Clinicians, 18% Parents, 6% Both
-How? Compile experiences, Identify needs from survey data, Back to the Consumers
+What? 
+>Autism is a neurodevelopmental disorder, characterized by deficits in social interactions and restricted, repetitive behaviors 
+Why? 
+>Current prevalence is 1 in 54 individuals, lack of services, lack of support with transition to remote environment
+Where? 
+>Google Form Survey, Designed for feedback 
+Purpose? 
+>Understand the context & gather direct insight to the problem
+Who? 
+>49 Respondents; 67% Educators or Clinicians, 18% Parents, 6% Both
+How? 
+>Compile experiences, Identify needs from survey data, Back to the Consumers
 
 
 
