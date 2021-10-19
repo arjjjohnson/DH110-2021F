@@ -6,11 +6,18 @@ Qualitative User Research [Contextual Inquiry]
 
 Amanda Johnson
 
-Learning from people in context
+# Learning from people in context
 ---
 
-# Introduction Steps 
+## Introduction Steps 
 
 ✅ Step 1: Specify the main design challenge
 >asd 
 
+## Link to research
+
+## Link to data
+
+## Interview transcript / observation notes
+
+## Short Reflection
