@@ -35,7 +35,7 @@ Amanda Johnson
 
 ![Survey Qs part 2](https://user-images.githubusercontent.com/91240122/137836142-df113d65-564a-4db9-8446-c62a90bd0315.png)
 
-## Link to data (https://docs.google.com/spreadsheets/d/1CupX6yuCixvs0HHxu1b6h3xKairs3NIbTA-D2eh0aP8/edit?usp=sharing)
+## Link to data (https://docs.google.com/spreadsheets/d/1j5793NeRDY-G1-TV8zp7av8JNs2BCFk5TbJiFydIrKI/edit#gid=1319739417)
 
 
 ## Interview transcript / observation notes
