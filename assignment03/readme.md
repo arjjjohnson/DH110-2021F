@@ -58,6 +58,14 @@ Stakeholders
 -- Researchers
 -- Developers
 
+What? Autism is a neurodevelopmental disorder, characterized by deficits in social interactions and restricted, repetitive behaviors 
+Why? Current prevalence is 1 in 54 individuals, lack of services, lack of support with transition to remote environment
+Where? Google Form Survey, Designed for feedback 
+Purpose? Understand the context & gather direct insight to the problem
+Who? 49 Respondents; 67% Educators or Clinicians, 18% Parents, 6% Both
+How? Compile experiences, Identify needs from survey data, Back to the Consumers
+
+
 
 ## Link to research (https://forms.gle/ZhAGHjoYsekqhF9B7) 
 
@@ -96,6 +104,25 @@ Further coding of our qualitative data will include organizing challenges and re
 
 
 ## Interview transcript / observation notes
+
+Need 1: A way to improve access to screening and care for ASD 
+“Technology makes assessment and treatment more accessible to individuals that travel long distances or cannot schedule a time to drive to a session.  It is also more convenient for smaller meetings that would not take much time.  However, technology is not always available to everyone I treat and it does not always produce treatment and assessment outcomes that are as high of quality.”
+“I know there are a few apps in development to increase access to autism assessment for underserved groups, so I think if may really improve access to assessment. I realize it may not be the most high quality assessment; however, it is likely better than the nothing they currently have access to. It is hard for many people to engage in therapy virtually so that is an interference. In primary care we have found that virtual appointments offer a huge benefit of us being able to see inside their homes and speak with multiple family members.”
+“Technology should (theoretically) expedite some processes, extend access to some care to those with transportation/work/distance barriers, and potentially automate some clinical processes (including screening and delivery of navigation/education). Families with limited access to technology may face disparities in access to care if these are the only models available. Automated processes that are imperfect may be accepted because they require less human time/effort.”
+
+Need 2: A way to seamlessly integrate parents reporting and needs to potential service providers
+
+“With improvement, it can facilitate access and be an innovative way to collect data. However, people may put too much faith in the technology as the answer, which would undermine clinician's ability to diagnose appropriately. It may also create, inadvertently, tiers of service that actually perpetuate a disadvantage for a segment of the population…… Ease of use and taking advantage of non-biased ways to collect data. Consequence may be it's only as good as we can make it, and people may overestimate the results.”
+
+“I think that technology can help by making assessment and data recording quicker than writing down observations. For instances, examiners can click which behaviors they have seen during this assessment and then the technology will keep record and spit out a more detailed report.”
+
+Need 3: A way to improve therapeutic alliance for ASD patients and meet parents mental health needs through services and autism education  
+
+“Ooof, where to start. More education about the neurodiversity movement for everyone and I really mean everyone (parents, educators, clinicians, assessors, e.v.e.r.y.o.n.e). Low cost effective screening and assessment that is culturally sensitive. A coordinated care system that includes education, health care, mental health services, parent support and training. Pretty much an overhaul of our existing systems, like I said, oooof!”
+
+“Collaboration between home, school, and outpatient therapies”
+
+“Better integration of early intervention system- need for one place where families can go to get information about therapies, school systems, health etc.”
 
 
 ## Short Reflection
