@@ -88,6 +88,9 @@ Context 2: Google Form (https://forms.gle/ZhAGHjoYsekqhF9B7)
 
 ![Survey Qs part 2](https://user-images.githubusercontent.com/91240122/137836142-df113d65-564a-4db9-8446-c62a90bd0315.png)
 
+![Final papge of questions](https://user-images.githubusercontent.com/91240122/137939414-ce462fc9-8d34-4553-be94-16a76038679f.png)
+
+
 ## Link to data (https://docs.google.com/spreadsheets/d/1j5793NeRDY-G1-TV8zp7av8JNs2BCFk5TbJiFydIrKI/edit#gid=1319739417)
 
 From the google form and during my intial analysis, four themes seemed salient throughout. These were broadly categorized as: informing and communicating with and to parents, supporting families, relationship building, treatment quality, accessibility of care, technical considerations, and lastly new opportunities. Unsurprisingly, sharing information between clinician and caretakers is a priority for many, and has been seriously disrupted. Relatedly, many are frustrated with the tech. What’s being used is insufficient and poorly tuned to the needs of the Autism community. On the other side of things however, one contingent of providers have thrived during the pandemic, and communicated resistance to change is the only thing holding them, and their industry back. Some have even floated their own ideas to us, such as a behavior and mood tracker, which I’m excited about. 
