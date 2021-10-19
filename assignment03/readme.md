@@ -8,7 +8,8 @@ Amanda Johnson
 
 ## Introduction Steps 
 
-
+To gain insight into context of 
+Observe the context, unfortunately, I decided to observe 
 
 ✅ Step 1: Specify the main design challenge
 
@@ -25,31 +26,6 @@ Variables of interest:
 - Geographical location 
 - Education level 
 
-Number of users for each part of the application
-Screening (including video uploads)
-Family and developmental history
-Microexpression and eye tracking 
-Accessing and adding their child to waitlists
-Rating quality providers
-Sending data from application to provider
-Communication with providers through the application for diagnostic assessment
-Communication with providers through the application about treatment  
-Attrition and latency rates
-Who completed the app but never found a provider
-Who downloaded the app and never completed the questionnaires/video upload requirement
-How long does it take for providers to respond to screening/diagnostic and treatment questions
-How much time elapses from form completion and submission to diagnostic appointment?
-User experience 
-Do users find the app easy to use?
-Do users find the app useful?
-Are there hiccups in the app?
-
-Segment:
-Clients 
-Providers 
-
-Accuracy of app: Correct risk categorization 
-
 Stakeholders
 - As each type of stakeholder may have a different perspective, this evaluation hopes to appeal to their unique needs, while considering the idea development process as a whole the main consideration.
 - Who are they?
@@ -60,18 +36,23 @@ Stakeholders
 
 What? 
 >Autism is a neurodevelopmental disorder, characterized by deficits in social interactions and restricted, repetitive behaviors 
+
 Why? 
 >Current prevalence is 1 in 54 individuals, lack of services, lack of support with transition to remote environment
+
 Where? 
 >Google Form Survey, Designed for feedback 
+
 Purpose? 
 >Understand the context & gather direct insight to the problem
+
 Who? 
 >49 Respondents; 67% Educators or Clinicians, 18% Parents, 6% Both
+
 How? 
 >Compile experiences, Identify needs from survey data, Back to the Consumers
 
-
+I had the wonderful opportunity to sit in on the Social Determinants Committee Meeting at the Martin Luther King, Jr. Community Hospital (MLKCH) which according to the homepage of their website is a “private, nonprofit, safety-net hospital serving 1.3 million residents in South Los Angeles.” This hospital offers an inclusive convening table where health and community leaders can come together to discuss and develop solutions to health access issues in their community. Specifically, the purpose of the meeting I attended was to connect with the community members with an emphasis on the social determinants of health special interest groups and committees and most importantly, share updates regarding the changes with the continuing COVID-19 pandemic. As previously mentioned, the background for this meeting is that the hospital provides a practical, innovative, and open approach to collaboration, and they not only react to, but also try to anticipate, the needs in the community. The goal of this meeting was to discuss with community members about collaboration efforts on a multi-year health equity initiative with authentic members, community and clinical partner engagements that aligns with MLK’s strategic priorities. The two chairs of the committee meeting were Gabriela Jacobs who was the Community Connector within the Office of Diversity, Equity, Inclusion, & Community Engagement, as well as René González who was part of the Health Equity Task Force and the meeting was mediated by the Senior Community Engagement Liaison.
 
 ## Link to research (https://forms.gle/ZhAGHjoYsekqhF9B7) 
 
@@ -96,22 +77,29 @@ How?
 
 ## Link to data (https://docs.google.com/spreadsheets/d/1j5793NeRDY-G1-TV8zp7av8JNs2BCFk5TbJiFydIrKI/edit#gid=1319739417)
 
-During the initial analysis, seven primary themes emerged. These were broadly categorized as: informing and communicating with and to parents, supporting families, relationship building, treatment quality, accessibility of care, technical considerations, and lastly new opportunities. 
+During my initial analysis, six themes seemed salient throughout. These were broadly categorized as: informing and communicating with and to parents, supporting families, relationship building, treatment quality, accessibility of care, technical considerations, and lastly new opportunities. 
 
-Regarding our first theme, clinicians emphasized the general difficulty in coordinating care and providing diagnostic and clinical updates to family members. One particularly interesting suggestion was through the use of behavior and progress trackers for sharing information. Next, parents and clinicians discussed the need for additional support for family members, ranging from psychoeducation and help navigating the healthcare ecosystem to emotional and peer support. 
+Unsurprisingly, sharing information between clinician and caretakers is a priority for many, and has been seriously disrupted. 
 
-We then examined relationship building. Therapeutic alliance not only between patient and clinician, but family and clinician is especially necessary for successful remote sessions. Many participants commented more directly on quality of services during the pandemic. It came as no surprise that there was marked skepticism of telehealth services as have been conducted over the past year. The ADOS, the gold-standard ASD diagnosis assessment, was described by many as impossible in this context. While less widespread, many contended that quality ASD treatment requires in-person visits, and that cannot change even as telehealth becomes more popular. 
+Relatedly, many are frustrated with the tech. What’s being used is insufficient and poorly tuned to the needs of ASD patients. 
 
-Echoing research described earlier in this document, many participants discussed accessibility as a core concern, with telehealth exacerbating systemic inequity in mental healthcare. There is a need to closely consider availability of high speed wireless internet, computing devices, and even space as services evolve. Interestingly, one participant discussed how attendance rates have increased since the pandemic and their group’s advent of remote services. 
+On the other side of things however, one contingent of providers have thrived during the pandemic, and communicated resistance to change is the only thing holding them, and their industry back. Some have even floated their own ideas to us, such as a behavior and mood tracker, which I’m excited about. 
 
-Crucially, many participants discussed specific technical concerns related to remote services and the pandemic. The webcam was a common source of frustration, with patients being difficult to follow or themselves exhibiting a lack of attention. Regarding the pandemic specifically, one clinician described the difficulty in reading facial cues when patients were wearing protective masks. Conversely, many participants discussed the opportunities brought on by the pandemic and greater adoption of telehealth. Participants indicated interest in using tech to better coordinate care for ASD with other providers, as an adjunct to traditional therapy methods, and enhance data collection, among others. 
+- Theme 1: clinicians emphasized the general difficulty in coordinating care and providing diagnostic and clinical updates to family members. One particularly interesting suggestion was through the use of behavior and progress trackers for sharing information. Next, parents and clinicians discussed the need for additional support for family members, ranging from psychoeducation and help navigating the healthcare ecosystem to emotional and peer support. 
+- Theme 2: Relationship building. Therapeutic alliance not only between patient and clinician, but family and clinician is especially necessary for successful remote sessions. Many participants commented more directly on quality of services during the pandemic. It came as no surprise that there was marked skepticism of telehealth services as have been conducted over the past year. The ADOS, the gold-standard ASD diagnosis assessment, was described by many as impossible in this context. While less widespread, many contended that quality ASD treatment requires in-person visits, and that cannot change even as telehealth becomes more popular. 
+- Theme 3: Accessibilty. Many participants discussed accessibility as a core concern, with telehealth exacerbating systemic inequity in mental healthcare. There is a need to closely consider availability of high speed wireless internet, computing devices, and even space as services evolve. Interestingly, one participant discussed how attendance rates have increased since the pandemic and their group’s advent of remote services. 
+- Theme 4: Technical Concerns. Many participants discussed specific technical concerns related to remote services and the pandemic. The webcam was a common source of frustration, with patients being difficult to follow or themselves exhibiting a lack of attention. Regarding the pandemic specifically, one clinician described the difficulty in reading facial cues when patients were wearing protective masks. Conversely, many participants discussed the opportunities brought on by the pandemic and greater adoption of telehealth. Participants indicated interest in using tech to better coordinate care for ASD with other providers, as an adjunct to traditional therapy methods, and enhance data collection, among others. 
 
-Further coding of our qualitative data will include organizing challenges and recommendations by relevance during the pandemic, more generally, or both. However, as many of our clinician participants indicated their intent to continue remote services at varying levels after the pandemic. The market is rife with opportunities related to the expanded and continued use of technology in the field of autism (Dattro, 2021). 
+Further coding of our qualitative data will include organizing challenges and recommendations by relevance during the pandemic, more generally, or both. However, as many of our clinician participants indicated their intent to continue remote services at varying levels after the pandemic. 
 
 
 ## Interview transcript / observation notes
 
-Need 1: A way to improve access to screening and care for ASD 
+Meeting observation: 
+From this meeting, a few notable themes emerged, these included: communication and health literacy, access to care, and crisis planning and response (which may be an ongoing theme of the last year and a half). It’s important to mention here because the main take away I had was that the community members are not giving up, and people are still pushing for change and efforts to build and develop a cooperative to connect various communities, especially those that have been the most affected by the pandemic. Here I realized these chairs were exhibiting supportive leadership styles, they were taking time to recognize the efforts from the community and those who may believe they are not yet doing enough. I found this segment of the meeting to be an interesting reflection of leadership from the participants and community members, which was really the most participatory this meeting has felt.
+
+
+Need 1: A way to improve access to screening and care
 “Technology makes assessment and treatment more accessible to individuals that travel long distances or cannot schedule a time to drive to a session.  It is also more convenient for smaller meetings that would not take much time.  However, technology is not always available to everyone I treat and it does not always produce treatment and assessment outcomes that are as high of quality.”
 “I know there are a few apps in development to increase access to autism assessment for underserved groups, so I think if may really improve access to assessment. I realize it may not be the most high quality assessment; however, it is likely better than the nothing they currently have access to. It is hard for many people to engage in therapy virtually so that is an interference. In primary care we have found that virtual appointments offer a huge benefit of us being able to see inside their homes and speak with multiple family members.”
 “Technology should (theoretically) expedite some processes, extend access to some care to those with transportation/work/distance barriers, and potentially automate some clinical processes (including screening and delivery of navigation/education). Families with limited access to technology may face disparities in access to care if these are the only models available. Automated processes that are imperfect may be accepted because they require less human time/effort.”
@@ -133,8 +121,34 @@ Need 3: A way to improve therapeutic alliance for ASD patients and meet parents 
 
 ## Short Reflection
 
-the assessment process is a uniquely formidable time for individuals on the autism spectrum and their families. Further, the coronavirus pandemic and its impact on children and families is vast even if the longitudinal effects of such a traumatic experience during pivotal developmental periods is not yet known. As the COVID-19 pandemic continues and society faces challenges like never before, bringing clinicians and families into the discussion around the impact of COVID-19 is pivotal. Despite these being unprecedented times, we must also look to those experiencing these issues first hand for better understanding around the probable short and long-term impacts of this pandemic on service and care in order to guide us in the creation of innovative and proactive solutions. Through the continued integration of diverse stakeholders perspectives (e.g., Autistics, parents, teachers, clinicians, and service providers), the need for additional support that improves the assessment process and service outcomes for individuals with ASD will come to fruition and help navigate this important milestone for autistic individuals.
+The purpose of this assignment was to gain an understanding of the assessment process through those with direct experience and how they believe that technology can be used to increase access to these. The findings from this initial analysis suggest that the assessment process is a uniquely formidable time for individuals on the autism spectrum and their families. Further, the coronavirus pandemic and its impact on children and families is vast even if the longitudinal effects of such a traumatic experience during pivotal developmental periods is not yet known. As the COVID-19 pandemic continues and society faces challenges like never before, bringing clinicians and families into the discussion around the impact of COVID-19 is pivotal. Despite these being unprecedented times, we must also look to those experiencing these issues first hand for better understanding around the probable short and long-term impacts of this pandemic on service and care in order to guide us in the creation of innovative and proactive solutions. Through the continued integration of diverse stakeholders perspectives (e.g., Autistics, parents, teachers, clinicians, and service providers), the need for additional support that improves the assessment process and service outcomes for individuals with ASD will come to fruition and help navigate this important milestone for autistic individuals.
 
-Generally, we see an unprecedented landscape of opportunities for our product to make an impact in the Autism Spectrum Disorder Market. Digital health was already on the rise before the COVID-19 pandemic but has accelerated exponentially. Part of this has been a function of necessity. Virtually all routine services that could be conducted remotely were transitioned to this modality. However, it has become an area of growing preference as well, as patients and providers have benefited from the convenience of telemedicine and the novel capabilities of the broader telehealth modality. This trend has been clear throughout the wider healthcare ecosystem but also apparent in the ASD community: a significant contingent of both providers and caregivers from our recent survey indicated positive characterization of these services and a clear intention to continue using them even after the pandemic and related health and safety guidelines
+Generally, we see an unprecedented landscape of opportunities for technology to make an impact in the assessment, access to care, and digit resources. Digital health was already on the rise before the COVID-19 pandemic but has accelerated exponentially. Part of this has been a function of necessity. Virtually all routine services that could be conducted remotely were transitioned to this modality. However, it has become an area of growing preference as well, as patients and providers have benefited from the convenience of telemedicine and the novel capabilities of the broader telehealth modality. This trend has been clear throughout the wider healthcare ecosystem but also apparent in the ASD community: a significant contingent of both providers and caregivers from our recent survey indicated positive characterization of these services and a clear intention to continue using them even after the pandemic and related health and safety guidelines.
 
+This provides a clear need for resources to be clear and accessible to all users. 
 
+Moving forward, it's imperative to watch parents directly interacting with these webbased platforms in order to better understand the role and place for technological advances to fit in. 
+Number of users for each part of the application
+Screening (including video uploads)
+Family and developmental history
+Microexpression and eye tracking 
+Accessing and adding their child to waitlists
+Rating quality providers
+Sending data from application to provider
+Communication with providers through the application for diagnostic assessment
+Communication with providers through the application about treatment  
+Attrition and latency rates
+Who completed the app but never found a provider
+Who downloaded the app and never completed the questionnaires/video upload requirement
+How long does it take for providers to respond to screening/diagnostic and treatment questions
+How much time elapses from form completion and submission to diagnostic appointment?
+User experience 
+Do users find the app easy to use?
+Do users find the app useful?
+Are there hiccups in the app?
+
+Segment:
+Clients 
+Providers 
+
+Accuracy of app: Correct risk categorization 
