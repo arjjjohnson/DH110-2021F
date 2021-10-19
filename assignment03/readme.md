@@ -147,6 +147,10 @@ Do users find the app easy to use?
 Do users find the app useful?
 Are there hiccups in the app?
 
+elicit qualitative and quantitative data (e.g. focus group testing and user surveys, respectively) to obtain nuanced and actionable feedback throughout the development process. This will be done later with normal users, but also early on by creating specific use case scenarios for beta testers to work through. Additionally, A and B testing will be utilized to ensure rich comparisons of new and existing designs, functions, and systems.
+Additionally, it will be crucial that we use our project management skills to pair evaluation processes with development milestones and prioritize around the MVP. While some flexibility will be required, we will aim, for example, to begin evaluating the clinician pairing process before the waitlist function.
+
+
 Segment:
 Clients 
 Providers 
