@@ -12,7 +12,50 @@ Amanda Johnson
 ## Introduction Steps 
 
 ✅ Step 1: Specify the main design challenge
->asd 
+>Background and Development
+	
+At the initial stages of development, I was able to receive feedback from 51 parents and practitioners of individuals with Autism. Therefore, the purpose of this evaluation is to examine the methods that will best address the application idea that came to fruition from those initial conversations. 
+
+Clarifying Objectives & Goals
+
+Variables of interest: 
+Demographics of users
+Age 
+Gender 
+Relationship to child
+Geographical location 
+Education level 
+Number of users for each part of the application
+Screening (including video uploads)
+Family and developmental history
+Microexpression and eye tracking 
+Accessing and adding their child to waitlists
+Rating quality providers
+Sending data from application to provider
+Communication with providers through the application for diagnostic assessment
+Communication with providers through the application about treatment  
+Attrition and latency rates
+Who completed the app but never found a provider
+Who downloaded the app and never completed the questionnaires/video upload requirement
+How long does it take for providers to respond to screening/diagnostic and treatment questions
+How much time elapses from form completion and submission to diagnostic appointment?
+User experience 
+Do users find the app easy to use?
+Do users find the app useful?
+Are there hiccups in the app?
+Segment:
+Clients 
+Providers 
+Accuracy of app
+Correct risk categorization 
+Stakeholders
+As each type of stakeholder may have a different perspective, this evaluation hopes to appeal to their unique needs, while considering the idea development process as a whole the main consideration.
+Who are they?
+Community Groups
+Funders
+Researchers
+Developers
+
 
 ## Link to research (https://forms.gle/ZhAGHjoYsekqhF9B7) 
 
