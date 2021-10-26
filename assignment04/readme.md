@@ -31,7 +31,7 @@ UX Storytelling
 #### How John is using this product
 > As product manager, John feels comfortable with techonology and typically experiences zero issues when it comes to finding an answer. He starts clicking around quite frequently and notices that he'll end up either pages back or be kicked off the webpage completely. 
 
-[insert photo of journey map]
+![John's Journey Map](https://user-images.githubusercontent.com/91240122/138915343-32728966-be83-4c36-b385-d8edb198207f.png)
 
 ### 2. Sarah's Scenario & Journey Map
 #### Why Sarah is using this product
