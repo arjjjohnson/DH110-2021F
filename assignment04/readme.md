@@ -12,6 +12,8 @@ UX Storytelling
 
 ### Persona 1: John Muir - Dedicated Single Father, Product Manager and Creative Writer
 
+![John Muir Persona](https://user-images.githubusercontent.com/91240122/138900771-0b5198a3-d950-4b90-a23b-bce2335297cd.png)
+
 ## Scenarios & Journey Map
 
 ### 1. John's Scenario & Journey Map
