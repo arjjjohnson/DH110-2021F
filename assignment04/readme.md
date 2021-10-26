@@ -14,6 +14,11 @@ UX Storytelling
 
 ![John Muir Persona](https://user-images.githubusercontent.com/91240122/138900771-0b5198a3-d950-4b90-a23b-bce2335297cd.png)
 
+
+### Persona 2: Sarah Marquis- Resilient Mother, Registered Nurse and Stay-at-home Caregiver
+
+![Sarah Persona](https://user-images.githubusercontent.com/91240122/138904083-d683b97c-94a8-490b-9aa0-3ababbfced5b.png)
+
 ## Scenarios & Journey Map
 
 ### 1. John's Scenario & Journey Map
@@ -43,6 +48,5 @@ Two features you want to propose for the ux design
 
 Two personas
 
-### Persona 1: Sarah Marquis- Dedicated Father, Product Manager and Creative Writer
 
 Short Reflection
