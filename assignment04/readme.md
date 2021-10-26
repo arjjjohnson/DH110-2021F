@@ -22,7 +22,7 @@ UX Storytelling
 
 
 ## Scenarios & Journey Map
-> These scenarious are centered around Arizona's Government Webpage, specifically the children and adolescent resource pages.
+> These scenarious are centered around Arizona's Government Webpage, specifically the children and adolescent resource pages. These are additional features to support or ways of bolstering existing systems. 
 
 ### 1. John's Scenario & Journey Map
 #### Why John is using this product
@@ -40,10 +40,8 @@ UX Storytelling
 #### How Sarah is using this product
 > Sarah feels fairly skilled in technology but as she tries to navigate the Arizona.gov homepage she is quickly losing confidence. 
 
-[insert photo of journey map]
+![image](https://user-images.githubusercontent.com/91240122/138929685-ec6c8ec2-822c-4fc7-a70a-61bdd667190d.png)
 
-
-## Proposed Features
 
 ## Reflection
-In the end, this assignment 
+In the end, this assignment took much more time than I was anticipating. I wanted to do each persona justice and really capture the stress and frustration that goes into this process and how poor technological support makes it seem almost impossible. With each of these personas, the need for support seems greater than ever. Instead of just trying to support individual people, I want to find ways to support from that system level and knowing how many more families you're helping simultaneously. 
