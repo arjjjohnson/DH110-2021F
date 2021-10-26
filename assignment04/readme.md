@@ -4,11 +4,12 @@ DH110: User Experience and Design
 UX Storytelling
 
 ## The Purpose of UX Storytelling
+* More background
 * The purpose of UX storytelling is to shift your perspective to the user's perspective and see the world how they would see it.
 * Creating personas and their story lets you and your team share the same image of the users.
 * Storytelling also helps filter out any biases you or your interviewees had and focus solely on the users.
 
-## Persona & Empathy Map
+## Personas
 
 ### Persona 1: John Muir - Dedicated Single Father, Product Manager and Creative Writer
 
@@ -20,6 +21,7 @@ UX Storytelling
 ![Sarah Persona](https://user-images.githubusercontent.com/91240122/138904083-d683b97c-94a8-490b-9aa0-3ababbfced5b.png)
 
 ## Scenarios & Journey Map
+> These scenarious are centered around Arizona's Government Webpage, specifically the children and adolescent resource pages.
 
 ### 1. John's Scenario & Journey Map
 #### Why John is using this product
@@ -42,11 +44,7 @@ He spends most of his time thinking about how to facilitate a better contributor
 [insert photo of journey map]
 
 
-Background Summary: Short introduction about the purpose of ux storytelling in your project
-
 Two features you want to propose for the ux design
-
-Two personas
 
 
 Short Reflection
