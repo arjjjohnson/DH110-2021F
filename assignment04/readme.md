@@ -4,21 +4,21 @@ DH110: User Experience and Design
 UX Storytelling
 
 ## The Purpose of UX Storytelling
-* More background
-* The purpose of UX storytelling is to shift your perspective to the user's perspective and see the world how they would see it.
-* Creating personas and their story lets you and your team share the same image of the users.
-* Storytelling also helps filter out any biases you or your interviewees had and focus solely on the users.
+* The purpose of UX storytelling is to consider the perspectives of the users to allow for an unbiased insight into the feature being explored. This process includes taking the user's perspective and understanding how they see the product and more importantly, how they would use it. Telling stories gives us a sense of culture, history, and personal identity. It allows us to come at problems from a place of empathy rather than only problem solving. This in turns allows us to create products specifically with the user in mind. 
 
-## Personas
+## Personas & Empathy Map
 
 ### Persona 1: John Muir - Dedicated Single Father, Product Manager and Creative Writer
 
 ![John's Person](https://user-images.githubusercontent.com/91240122/138910336-6b209d59-2d65-47d2-b4ae-0e61772afa51.png)
 
+![John's Empathy](https://user-images.githubusercontent.com/91240122/138925590-a9b000c2-6e92-4b97-97d9-babb12bab9aa.png)
 
 ### Persona 2: Sarah Marquis- Resilient Mother, Registered Nurse and Stay-at-home Caregiver
 
 ![Sarah's Persona](https://user-images.githubusercontent.com/91240122/138910890-4b27a491-8fd5-429d-8888-18c93f7a13e0.png)
+
+![Sarah's Empathy](https://user-images.githubusercontent.com/91240122/138926501-db469bbb-a760-4854-86d6-ae729045b3a2.png)
 
 
 ## Scenarios & Journey Map
@@ -38,12 +38,12 @@ UX Storytelling
 > When Evan was born, Sarah took a leave from her job as a registered nurse. She was anticipating going back when he turned 1-years-old but then her husband received a raise at work and with the high cost of childcare, it started to make more sense for her to stay home. 
 
 #### How Sarah is using this product
-> Sarah feels fairly skilled in technology but as she tries to navigate the Arizona.gov homepage she is quickly 
+> Sarah feels fairly skilled in technology but as she tries to navigate the Arizona.gov homepage she is quickly losing confidence. 
 
 [insert photo of journey map]
 
 
-Two features you want to propose for the ux design
+## Proposed Features
 
-
-Short Reflection
+## Reflection
+In the end, this assignment 
