@@ -40,6 +40,23 @@ Matches symptomology with providers with various specialty areas
 +1: Note the tester’s confusion or unexpected interaction; Note whether the tester could successfully complete the tasks 
 +1: pictures/video of the tester’s walkthrough pathway
 
+Review
+Why Sarah is using this product
+When Evan was born, Sarah took a leave from her job as a registered nurse. She was anticipating going back when he turned 1-years-old but then her husband received a raise at work and with the high cost of childcare, it started to make more sense for her to stay home. Since she is stay-at-home mom she already wonders if Evan is missing out on potential socializability interactions but doesn't think much of it. She does however, start to notice some developmental markers he's not hitting and enters the Arizona Government webpage. She is instantly overwhelmed and thinks "Why isn't there a way to quickly connect with families around me who might be having these questions." After school she meets a new family who shows her a webppage that uses geolocation to connect families with one another. There are various levels of support integrated so she feels confident she's discussing with someone who is prioritizing her needs.
+
+How Sarah is using this product
+Sarah feels fairly skilled in technology but as she tries to navigate the Arizona.gov homepage she quickly loses confidence. With this newly proposed design Sarah is able to see families nearby who have asked the same questions and is able to view the community forum page to see how others went about solving this problem in her neighborhood, within the same school districts. She is joyful because for the first time she knows she can lean on her community during this difficult time.
+
+He is able to search the providers in the area - the list of providers showed up by proximity and ratings. He can see “Anderson, D. 3mi ***” on top and feels curious if he can find the top rated providers. He clicks on the sort by rating button on the right top and now check the providers according to the high-ratings of ****.  ...
+
+Why John is using this product
+John is having questions about his child's development. At a recent family barbeque, his sister asked him if he's concerned with his son's language development. With his sister being a pediatrician, he feels that she may be overanalyzing his son and snaps back. However, he can't help feeling a bit unsettled as he leaves the barbeque. He logs into Arizona's government page as his first step plan but instantly gets frustrated as there are hardly any resources available and they are not clearly marked. He doesn't exactly know what he's looking for, but he knows its not what is in front of him. He needs a clear way to search for his questions and be connected to practioners in the area that can clearly answer them. He is recommended an application that breaks down these questions using geolocation - this shows him what services are offered at various levels (individual, group, mentorship, support).
+
+How John is using this product
+As product manager, John feels comfortable with techonology and typically experiences zero issues when it comes to finding an answer. He starts clicking around quite frequently and notices that he'll end up either pages back or be kicked off the webpage completely. When he interacts with The newly proposed design he is able to systematically enter in details of importance and narrow his search to providers in the area who can explicitly help me. He seemlessly navigates the webpage and is feeling so much more supported than before.
+
+He is able to search the providers in the area - the list of providers showed up by proximity and ratings. He can see “Anderson, D. 3mi ***” on top and feels curious if he can find the top rated providers. He clicks on the sort by rating button on the right top and now check the providers according to the high-ratings of ****.  ...
+
 
 ## Summary
 +1: Summary of the process, what went smoothly or differently from your expectation
