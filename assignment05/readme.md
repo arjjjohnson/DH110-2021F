@@ -57,14 +57,13 @@ I did my best to stick to the paper sketches but realized that I am be better fi
 
 
 ## Testing
-+1: Note the tester’s confusion or unexpected interaction; Note whether the tester could successfully complete the tasks 
-+1: pictures/video of the tester’s walkthrough pathway
+For this assignment, I was able to have a 28 yo female, psuedonym: Rylee, support and walk through the lo-fi prototype. 
 
 ![Walk through 1 - Sarah](https://user-images.githubusercontent.com/91240122/139875202-723c3ea6-a315-4ff8-bd02-e015fcebda98.png)
 
 ![Walk through 2 - John](https://user-images.githubusercontent.com/91240122/139875425-a2e8c56c-78ab-49eb-9a96-a75e8dbb7ba6.png)
 
-
+These photos depict my user walking through the prototype, using a pen to depict the various wires. These images show the user using this before the flows were added to ensure the user was able to follow along with the written assignment. 
 
 ## Summary
 +1: Summary of the process, what went smoothly or differently from your expectation
@@ -77,10 +76,18 @@ This process was a unique experience. As mentioned above, the pen and paper tech
 
 Based on the feedback from the testing, I do see how valuable it is to include the exit possibility as well as making the tasks as simple as possible. From this activity, I've realized there are a few components I am missing and it'll be important to include those in the next phase of development. 
 
+### Wireframe & wireflow 1: Sarah's Community Connect
 Problem: 
 Solution: 
 Problem: 
 Solution: 
+
+### Wireframe & wireflow 1: John's Access to Services
+Problem: Initially the user wasn't clear on what the boxes meant with the prompts. For example, was age asking for the age of their child or the age of the therapist. 
+Solution: Making a clear distinction that this would either be a type out box or a drop down menu with various options. It would also be important to include additional wording to support. 
+Problem: 
+Solution: 
+
 
 As such, I would definitely like to try my hand at digitizing this process in the future. Testing the prototype in its current form deemed to be a difficult task.
 Conceptually, I understood what needed to happen, but I did not want to guide the user too much with additional arrows or images that were part of the wireflow but not the wireframe. I feel that the user did not pay too much attention to the “click” indications and arrows that I did have present in the wireframes, though, so that part of the testing process went properly. Overall, I feel that creating digitized wireframes / wireflows would have allowed me to create and test more scenarios, screens, and steps more easily and may have provided a smoother experience for the test user. However, I feel that the testing that did occur was still beneficial for me because it highlighted the importance of small details for the user in deciding what to choose as their next step.
