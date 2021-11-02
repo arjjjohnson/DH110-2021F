@@ -5,30 +5,37 @@ UX Wireframe/Paper_protoype
 
 ## Overview
 ### Description
-Brief summary of user-research, persona and the features you wrote as usage scenario; The purpose of this low-fidelity prototyping
 
-From the background you just heard and our results we’ve presented throughout the last few weeks, it seems that the solution is simple, first off, we know that families aren’t happy with how they access care, we know that practitioners are looking for a way to integrate technology to ultimately ease some of their workloads, therefore, like i mentioned, the answer seems easy, create an application that expedites this process and allows families, individuals, practitioners the freedom to do it on their own time and focusing on their own needs. 
+From the field research gathered it seems that the solution is simple, first off, we know that families aren’t happy with how they access care, we know that practitioners are looking for a way to integrate technology to ultimately ease some of their workloads, therefore, like i mentioned, the answer seems easy, create an application that expedites this process and allows families, individuals, practitioners the freedom to do it on their own time and focusing on their own needs. 
 
-To our surprise, as well as yours now, it hasn’t been done yet. Therefore, the solution is to have an application that ties together these three essential elements together 1. The ability to access support to determine whether your child needs more comprehensive evaluation, 2. The ability to connect with provider DIRECTLY in your are (using geolocation) and 3. The ability to communicate with these providers without having to set up numerous consultations and therefore, being effective and efficient support straight to your mobile device. 
+To my surprise, as well as yours now, it hasn’t been done yet. Therefore, the solution is to create a tool that ties together these three essential elements together 
+- 1. The ability to access support to determine whether your child needs more comprehensive evaluation 
+- 2. The ability to connect with provider DIRECTLY in your are (using geolocation)
+- 3. The ability to communicate with these providers without having to set up numerous consultations and therefore, being effective and efficient support straight to your mobile device. 
 
 
 ### Purpose
-This is our prototype which outlines the essential functions of the application as well as what makes this application unique from our competitors. We have integrated the parents needs and wants, in naturalistic settings, you have the ability to capture events to share directly with providers, where they are happening. 
-We mentioned that this application serves to determine whether your child needs a more comprehensive assessment or what level of services may be appropriate. 
-One of the essential parts of our application is using Geolocation to help individuals search for providers by location and get connected 
+This lo-fi prototype outlines the essential functions of the application as well as what makes this application unique. 
+Based off of John's needs, I wanted to create a function of the application that serves to determine whether your child needs a more comprehensive assessment or what level of services may be appropriate. 
 
-And finally, we wanted to incorporate a way for individuals to directly communicate with providers, upload notes, thoughts and even questions. Along with a component that allows users to communicate with other users as a place for support (which is backed by so much literature and supporting research). If we could eventually figure out a way to incentivize users to talk to one another and eventually get to a place where we have users able to answer questions of other users, almost a peer coach in a way. We know a lot of success in this world comes from social resources - so if we could make that come to fruition this would create more incentive to continue using the application, etc. 
+One of the essential parts of this application is using Geolocation to help individuals search for providers by location and get connected 
 
-Matches symptomology with providers with various specialty areas
-14. App that prompts parents to enter data daily
-15. App that shares information across contexts (doctors & schools)
-16. Gives push notifications when a provider sends a message
-17. Gives targeted advice to families based upon symptomatology
+And finally, based off of Sarah's persona, I wanted to incorporate a way for individuals to directly communicate with providers, other parents, or social coaches to share thoughts and even questions. Along with a component that allows users to communicate with other users as a place for support (which is backed by so much literature and supporting research). If we could eventually figure out a way to incentivize users to talk to one another and eventually get to a place where we have users able to answer questions of other users, almost a peer coach in a way. We know a lot of success in this world comes from social resources - so if we could make that come to fruition this would create more incentive to continue using the application, etc. 
+
+The Main Goals are to:
+- Matches symptomology with providers with various specialty areas
+- Prompts parents to enter data daily
+- Shares information across contexts (doctors & schools)
+- Gives push notifications when a provider sends a message
+- Gives targeted advice to families based upon symptomatology
 
 
 ## Wireframes
-+1 At least three distinctive wireframes (= sketches of the screen) that represent the user flow (the input and output of the system) 
-+1: Thoughtful content design including proper texts and button labels
+I did my best to stick to the paper sketches but realized that I am be better fit to continue using webbased tools to facilitate this portion of development. 
+
+![Wireframe - Sarah](https://user-images.githubusercontent.com/91240122/139874154-4c664827-2ca8-48dd-93e4-1fbe39753651.png)
+
+![Wireframe - John](https://user-images.githubusercontent.com/91240122/139874024-d7a705b4-043f-4d25-aae3-8a308ac821df.png)
 
 
 ## Wireflows
@@ -36,9 +43,19 @@ Matches symptomology with providers with various specialty areas
 +1: At least two tasks (from persona + usage scenario) were presented via wireflow
 +1: Complete interaction sequences for all the possible choices and exit/cancel/back were clearly presented via wireflow
 
+![Wireflow Sarah](https://user-images.githubusercontent.com/91240122/139874264-6ac30601-2ee7-4f1b-834d-53ac442d96d8.png)
+
+![Wireflow John](https://user-images.githubusercontent.com/91240122/139874389-069bff7f-f62f-4465-b3b7-218314606452.png)
+
+
 ## Testing
 +1: Note the tester’s confusion or unexpected interaction; Note whether the tester could successfully complete the tasks 
 +1: pictures/video of the tester’s walkthrough pathway
+
+![Walk through 1 - Sarah](https://user-images.githubusercontent.com/91240122/139875202-723c3ea6-a315-4ff8-bd02-e015fcebda98.png)
+
+![Walk through 2 - John](https://user-images.githubusercontent.com/91240122/139875425-a2e8c56c-78ab-49eb-9a96-a75e8dbb7ba6.png)
+
 
 Review
 Why Sarah is using this product
