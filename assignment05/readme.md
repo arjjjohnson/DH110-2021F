@@ -24,6 +24,7 @@ Storyboard background
 Solution
 ![storyboard pt 2](https://user-images.githubusercontent.com/91240122/140579384-80050380-b290-4532-8369-d052edfa9aa2.png)
 
+
 Revisiting Sarah & John's Personas
 > Sarah: When Evan was born, Sarah took a leave from her job as a registered nurse. She was anticipating going back when he turned 1-years-old but then her husband received a raise at work and with the high cost of childcare, it started to make more sense for her to stay home. Since she is stay-at-home mom she already wonders if Evan is missing out on potential socializability interactions but doesn't think much of it. She does however, start to notice some developmental markers he's not hitting and enters the Arizona Government webpage. She is instantly overwhelmed and thinks "Why isn't there a way to quickly connect with families around me who might be having these questions." After school she meets a new family who shows her a webppage that uses geolocation to connect families with one another. There are various levels of support integrated so she feels confident she's discussing with someone who is prioritizing her needs. Sarah feels fairly skilled in technology but as she tries to navigate the Arizona.gov homepage she quickly loses confidence. With this newly proposed design Sarah is able to see families nearby who have asked the same questions and is able to view the community forum page to see how others went about solving this problem in her neighborhood, within the same school districts. She is joyful because for the first time she knows she can lean on her community during this difficult time.
 
@@ -51,7 +52,9 @@ I did my best to stick to the paper sketches but realized that I am be better fi
 
 ![Wireframe - Sarah](https://user-images.githubusercontent.com/91240122/139874154-4c664827-2ca8-48dd-93e4-1fbe39753651.png)
 
-![Wireframe - John](https://user-images.githubusercontent.com/91240122/139874024-d7a705b4-043f-4d25-aae3-8a308ac821df.png)
+![Wireframe John - providers](https://user-images.githubusercontent.com/91240122/140587266-dc7e1ae4-5d99-4138-b63d-f00d4c1884d3.jpeg)
+
+![Wireframe John providers 1](https://user-images.githubusercontent.com/91240122/140587290-1ccb3175-b488-42e9-b68d-3f0b7febbe24.jpeg)
 
 
 ## Wireflows
@@ -61,7 +64,8 @@ I did my best to stick to the paper sketches but realized that I am be better fi
 
 ![Wireflow Sarah](https://user-images.githubusercontent.com/91240122/139874264-6ac30601-2ee7-4f1b-834d-53ac442d96d8.png)
 
-![Wireflow John](https://user-images.githubusercontent.com/91240122/139874389-069bff7f-f62f-4465-b3b7-218314606452.png)
+![Wireflow  John Providers 2](https://user-images.githubusercontent.com/91240122/140587326-6f5b8ac1-a173-43a8-975d-9e31e441f9bc.jpeg)
+![Wireflow John Providers 3](https://user-images.githubusercontent.com/91240122/140587337-2adbc31c-b280-4b46-8724-152acf454dc8.jpeg)
 
 
 ## Testing
@@ -69,7 +73,8 @@ For this assignment, I was able to have a 28 yo female, psuedonym: Rylee, suppor
 
 ![Walk through 1 - Sarah](https://user-images.githubusercontent.com/91240122/139875202-723c3ea6-a315-4ff8-bd02-e015fcebda98.png)
 
-![Walk through 2 - John](https://user-images.githubusercontent.com/91240122/139875425-a2e8c56c-78ab-49eb-9a96-a75e8dbb7ba6.png)
+![Walk through 2 - John test1](https://user-images.githubusercontent.com/91240122/140587377-4c4546cb-3b26-402e-bf04-f8e84bf00ae5.jpeg)
+
 
 These photos depict my user walking through the prototype, using a pen to depict the various wires. These images show the user using this before the flows were added to ensure the user was able to follow along with the written assignment. 
 
