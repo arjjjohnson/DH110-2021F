@@ -50,7 +50,10 @@ The Main Goals are to:
 ## Wireframes
 I did my best to stick to the paper sketches but realized that I am be better fit to continue using webbased tools to facilitate this portion of development. 
 
-![Wireframe - Sarah](https://user-images.githubusercontent.com/91240122/139874154-4c664827-2ca8-48dd-93e4-1fbe39753651.png)
+![support 1](https://user-images.githubusercontent.com/91240122/140589173-2d4d9acf-69ca-43f8-b595-ed906d66ccc6.png)
+
+![support 2](https://user-images.githubusercontent.com/91240122/140589188-3f133eb9-47bf-4fda-afe7-cb58aac68abd.png)
+
 
 ![Wireframe John - providers](https://user-images.githubusercontent.com/91240122/140587266-dc7e1ae4-5d99-4138-b63d-f00d4c1884d3.jpeg)
 
@@ -58,11 +61,10 @@ I did my best to stick to the paper sketches but realized that I am be better fi
 
 
 ## Wireflows
-+1: At least one sequence of the user interaction flow was presented with wireframes and arrow_lines 
-+1: At least two tasks (from persona + usage scenario) were presented via wireflow
-+1: Complete interaction sequences for all the possible choices and exit/cancel/back were clearly presented via wireflow
 
-![Wireflow Sarah](https://user-images.githubusercontent.com/91240122/139874264-6ac30601-2ee7-4f1b-834d-53ac442d96d8.png)
+![image 1 ](https://user-images.githubusercontent.com/91240122/140589219-47c4fce0-d938-4407-9edd-eaf863731ecd.png)
+![image2 ](https://user-images.githubusercontent.com/91240122/140589242-56c4359a-4f8e-4e34-99c5-ae513818df34.png)
+
 
 ![Wireflow  John Providers 2](https://user-images.githubusercontent.com/91240122/140587326-6f5b8ac1-a173-43a8-975d-9e31e441f9bc.jpeg)
 ![Wireflow John Providers 3](https://user-images.githubusercontent.com/91240122/140587337-2adbc31c-b280-4b46-8724-152acf454dc8.jpeg)
@@ -71,7 +73,10 @@ I did my best to stick to the paper sketches but realized that I am be better fi
 ## Testing
 For this assignment, I was able to have a 28 yo female, psuedonym: Rylee, support and walk through the lo-fi prototype. 
 
-![Walk through 1 - Sarah](https://user-images.githubusercontent.com/91240122/139875202-723c3ea6-a315-4ff8-bd02-e015fcebda98.png)
+![image 1 test ](https://user-images.githubusercontent.com/91240122/140589282-7251c6f8-fccb-470e-b1de-a5359d6c6df4.png)
+
+![image 2 test ](https://user-images.githubusercontent.com/91240122/140589295-609244dc-6301-452a-973c-a2abe6de5397.png)
+
 
 ![Walk through 2 - John test1](https://user-images.githubusercontent.com/91240122/140587445-ce5ee4eb-74ef-45ed-8278-7cca2e013c41.png)
 
