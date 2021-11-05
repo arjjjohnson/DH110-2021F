@@ -73,7 +73,7 @@ For this assignment, I was able to have a 28 yo female, psuedonym: Rylee, suppor
 
 ![Walk through 1 - Sarah](https://user-images.githubusercontent.com/91240122/139875202-723c3ea6-a315-4ff8-bd02-e015fcebda98.png)
 
-![Walk through 2 - John test1](https://user-images.githubusercontent.com/91240122/140587377-4c4546cb-3b26-402e-bf04-f8e84bf00ae5.jpeg)
+![Walk through 2 - John test1](https://user-images.githubusercontent.com/91240122/140587445-ce5ee4eb-74ef-45ed-8278-7cca2e013c41.png)
 
 
 These photos depict my user walking through the prototype, using a pen to depict the various wires. These images show the user using this before the flows were added to ensure the user was able to follow along with the written assignment. 
