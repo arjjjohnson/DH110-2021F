@@ -79,28 +79,23 @@ For this assignment, I was able to have a 28 yo female, psuedonym: Rylee, suppor
 These photos depict my user walking through the prototype, using a pen to depict the various wires. These images show the user using this before the flows were added to ensure the user was able to follow along with the written assignment. 
 
 ## Summary
-+1: Summary of the process, what went smoothly or differently from your expectation
 
-+1: What you would change or design differently based on the feedback you got from the prototype testing. 
+This process was a unique experience. As mentioned above, the pen and paper technique proved to be much more difficult than I originally expected. However, my participant was able to follow my conceptual process and was able to see the design ideas. They were impressed with how much can exactually be extracted from a small wireframe task. I wasn't expecting the user to have questions beyond the task stated and being curious what other buttons meant that they were not directly using. 
 
-+1 For each, describe in a sentence or two what problem the tester encountered, and in another sentence or two how you would address the problem if you were to revise the prototype.
-
-This process was a unique experience. As mentioned above, the pen and paper technique proved to be much more difficult than I originally expected. However, my participant was able to follow my conceptual process and was able to see the design ideas. They were impressed with how much can exactually be extracted from a small wireframe task. 
-
-Based on the feedback from the testing, I do see how valuable it is to include the exit possibility as well as making the tasks as simple as possible. From this activity, I've realized there are a few components I am missing and it'll be important to include those in the next phase of development. 
+Based on the feedback from the testing, I do see how valuable it is to include the exit possibility as well as making the tasks as simple as possible. From this activity, I've realized there are a few components I am missing and it'll be important to include those in the next phase of development.  
 
 ### Wireframe & wireflow 1: Sarah's Community Connect
-Problem: 
-Solution: 
-Problem: 
-Solution: 
+- 1. Problem: What information would I have to input about myself? What if I didn't want the other parents to know my identity.
+- 1. Solution: I believe there may be a step missing of first creating a profile for yourself. This would allow the user to have complete control over what is or is not being shared. 
+- 2. Problem: What exactly the functionality would be, would users be immediately connected with supports? 
+- 2. Solution: These were great questions and actually a part of the development I'm still trying to figure out. 
 
 ### Wireframe & wireflow 1: John's Access to Services
-Problem: Initially the user wasn't clear on what the boxes meant with the prompts. For example, was age asking for the age of their child or the age of the therapist. 
-Solution: Making a clear distinction that this would either be a type out box or a drop down menu with various options. It would also be important to include additional wording to support. 
-Problem: 
-Solution: 
+- 1. Problem: Initially the user wasn't clear on what the boxes meant with the prompts. For example, was age asking for the age of their child or the age of the therapist. 
+- 1. Solution: Making a clear distinction that this would either be a type out box or a drop down menu with various options. It would also be important to include additional wording to support. 
+- 2. Problem: The user didn't understand how entering insurance would work and how the database might accurate draw from this data. 
+- 2. Solution: Providing an option for those who may not want to enter every single detail. 
 
 
 As such, I would definitely like to try my hand at digitizing this process in the future. Testing the prototype in its current form deemed to be a difficult task.
-Conceptually, I understood what needed to happen, but I did not want to guide the user too much with additional arrows or images that were part of the wireflow but not the wireframe. I feel that the user did not pay too much attention to the “click” indications and arrows that I did have present in the wireframes, though, so that part of the testing process went properly. Overall, I feel that creating digitized wireframes / wireflows would have allowed me to create and test more scenarios, screens, and steps more easily and may have provided a smoother experience for the test user. However, I feel that the testing that did occur was still beneficial for me because it highlighted the importance of small details for the user in deciding what to choose as their next step.
+There is a balance between including too much information where the user gets confused but also not including enough information then the user gets lost. Overall, I feel that creating digitized wireframes / wireflows would have allowed me to create and test more scenarios, situations, and steps more easily and may have provided a smoother experience for the test user. However, I feel that the testing that did occur was still beneficial for me because it highlighted the importance of small details for the user in deciding what to choose their actions and how they may or may not feel supported by the website they're using. 
