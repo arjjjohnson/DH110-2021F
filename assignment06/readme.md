@@ -13,7 +13,9 @@ Therefore, the purpose of this project is to support users in finding and access
 
 2. Provide link to digitized wireflow
 
-https://www.figma.com/proto/NhXvfObD6LZxxRoE7TvrjO/interface-design?node-id=201%3A3235&scaling=min-zoom&page-id=9%3A14
+Prototype: https://www.figma.com/proto/NhXvfObD6LZxxRoE7TvrjO/interface-design?node-id=201%3A3235&scaling=min-zoom&page-id=9%3A14
+
+File: https://www.figma.com/file/NhXvfObD6LZxxRoE7TvrjO/interface-design?node-id=9%3A14
 
 > Although this prototype hasn't been formed with specific interactions yet. This design page allows users to see the outline of the design as supported by graphic design choices. 
 
