@@ -33,6 +33,12 @@ I ensured that my color contrasts adhere to the WCAG2.0 AA level standard of acc
 
 6. Evidence of accessibility (color-contrast at least) check
 
+![Adobe Color Extraction](https://user-images.githubusercontent.com/91240122/140944339-62caa020-d11b-4c06-9e48-cab41c996301.png)
+
+![Adobe pt. 2](https://user-images.githubusercontent.com/91240122/140945126-832dbd15-969d-4d53-a462-12911c31ce33.png)
+
+
+
 ## Design System
 
 7. Link to the interface design page that shows your test screens and design system information
