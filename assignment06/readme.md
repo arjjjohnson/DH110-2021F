@@ -5,11 +5,11 @@ UX interface Design
 
 ## Brief Description of Project
 
-The purpose of this assignment was to gain an understanding of the accessing services and resources process through those with direct experience and how they believe that technology can be used to increase access to these. The findings from this initial analysis suggest that this process is a uniquely formidable time for individuals on autism and their families. Further, the coronavirus pandemic and its impact on children and families is vast even if the longitudinal effects of such a traumatic experience during pivotal developmental periods is not yet known. As the COVID-19 pandemic continues and society faces challenges like never before, bringing clinicians and families into the discussion around the impact of COVID-19 is pivotal. Despite these being unprecedented times, we must also look to those experiencing these issues first hand for better understanding around the probable short and long-term impacts of this pandemic on service and care in order to guide us in the creation of innovative and proactive solutions. Through the continued integration of diverse stakeholders perspectives (e.g., Autistics, parents, teachers, clinicians, and service providers), the need for additional support that improves the assessment process and service outcomes for individuals with autism will come to fruition and help navigate this important milestone for autistic individuals.
+The purpose this project is to assist users in the uniquely formidable process of accessing services and resources.
 
-Generally, we see an unprecedented landscape of opportunities for technology to make an impact in the assessment, access to care, and digit resources. Digital health was already on the rise before the COVID-19 pandemic but has accelerated exponentially. Part of this has been a function of necessity. Virtually all routine services that could be conducted remotely were transitioned to this modality. However, it has become an area of growing preference as well, as patients and providers have benefited from the convenience of telemedicine and the novel capabilities of the broader telehealth modality. This trend has been clear throughout the wider healthcare ecosystem but also apparent in the ASD community: a significant contingent of both providers and caregivers from our recent survey indicated positive characterization of these services and a clear intention to continue using them even after the pandemic and related health and safety guidelines.
+Background: The coronavirus pandemic and its impact on children and families is vast even if the longitudinal effects of such a traumatic experience during pivotal developmental periods is not yet known. As the COVID-19 pandemic continues and society faces challenges like never before, finding ways to support families in accessing health services for their children is more important than ever. There seems to be an unprecedented landscape of opportunities for technology to make an impact in the assessment, access to care, and digit resources. Digital health was already on the rise before the COVID-19 pandemic but has accelerated exponentially. While part of this has been a function of necessity, the other part stems from technology being able to make access to care more accessible than every before. This change has become an area of growing preference as well, as patients and providers have benefited from the convenience of telemedicine and the novel capabilities of the broader telehealth modality. 
 
-This provides a clear need for resources to be clear and accessible to all users.
+Therefore, the purpose of this project is to support users in finding and accessing available resources in a clear and accessible manner for all users. This last point highlights the importance in taking breaking down each step of the interface design, as notably shown below. 
 
 2. Provide link to digitized wireflow
 
@@ -32,9 +32,13 @@ Typography
 
 ![Typography choices](https://user-images.githubusercontent.com/91240122/140946057-2c51ec0c-ed6a-4ac7-85d5-034009179a40.png)
 
+> Four fonts were trialed in this stage of development. The first font was the one provided, while the two following were the fonts "recommended" through google font searchs as "highly rated." Ultimately, I decided on a font that was similar to the original webpage and one that was clean, yet simple. 
+
 ![Adobe Color Extraction](https://user-images.githubusercontent.com/91240122/140944339-62caa020-d11b-4c06-9e48-cab41c996301.png)
 
 ![Adobe pt. 2](https://user-images.githubusercontent.com/91240122/140945126-832dbd15-969d-4d53-a462-12911c31ce33.png)
+
+> Utilizing Adobe software, I was able to extract the colors from the original logo. From there, I may some minor changes to the color scheme to allow for darker contrast in certain areas (especially important since I decided on a neutral light gray background to support users who may typically struggle with a stark white background). 
 
 4. Description of your decision making process about the final graphical interface design
 
