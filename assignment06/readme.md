@@ -59,8 +59,9 @@ Neutral Remarks
 Ways to Improve
 - "Are the extra search bars necessary? What do they search? Do you have to search or can you scroll and click?"
 - "Why does it stop at 11 year olds?"
+- "Is this all on the screen? Would you scroll to a second screen?" 
 
-> Through this impression test,  I was really able to see how I could make this project my own moving forward. The user was overall very positive about the current iteration. He stated that it's interesting to choose red, since it is commonly more pleasing for men than women. He was stating how this could be important as he would imagine having to seek out resources or support as a father might be an intimidating task. This was a perspective I had not initially thought of as we know men are less likely to actively seek out resources or support unless it's imperative. 
+> Through this impression test,  I was really able to see how I could make this project my own moving forward and where it needed to go in order to easily communicate with the users. The user was overall very positive about the current iteration. He stated that it's interesting to choose red, since it is commonly more pleasing for men than women. He was stating how this could be important as he would imagine having to seek out resources or support as a father might be an intimidating task. This was a perspective I had not initially thought of as we know men are less likely to actively seek out resources or support unless it's imperative. 
 
 ## Accessibility (color-contrast) check
 
