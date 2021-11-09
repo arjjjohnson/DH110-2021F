@@ -15,7 +15,7 @@ Therefore, the purpose of this project is to support users in finding and access
 
 https://www.figma.com/proto/NhXvfObD6LZxxRoE7TvrjO/interface-design?node-id=201%3A3235&scaling=min-zoom&page-id=9%3A14
 
-> Although this prototype hasn't been formed with specific interactions yet. This design page al
+> Although this prototype hasn't been formed with specific interactions yet. This design page allows users to see the outline of the design as supported by graphic design choices. 
 
 
 ## Screen Design
@@ -34,6 +34,8 @@ Typography
 
 > Four fonts were trialed in this stage of development. The first font was the one provided, while the two following were the fonts "recommended" through google font searchs as "highly rated." Ultimately, I decided on a font that was similar to the original webpage and one that was clean, yet simple. 
 
+Colors 
+
 ![Adobe Color Extraction](https://user-images.githubusercontent.com/91240122/140944339-62caa020-d11b-4c06-9e48-cab41c996301.png)
 
 ![Adobe pt. 2](https://user-images.githubusercontent.com/91240122/140945126-832dbd15-969d-4d53-a462-12911c31ce33.png)
@@ -42,25 +44,23 @@ Typography
 
 4. Description of your decision making process about the final graphical interface design
 
-> While ... I decided to make the graphic design minimal and uncluttered, providing necessary information as needed but otherwise keeping the interface clean of extraneous information. I designed the interface to be friendly, with rounded buttons, and to resemble the interface of other reading apps such as news paper websites to make the website recognizable as being related to reading.
+> While making decisions in this process, it was important to me to make the graphic design minimal and simplistic, therefore, aiming to only provide necessary information to. I designed the interface to be friendly, with bannered buttons and rounded edges, while keeping notable symbols (i.e., the navigation bar) in their original form to support universal understanding.
 
 ## Impression Test
 
-**28 yo male**
+This impression test was conducted with a **28 yo male** who works within computer science field. (_Unfortunately, this user did not consent to having their photo / screensharing recording shared. However, they did approve for me to transcribe and share their impressions._)
 
-_Unfortunately, this user did not consent to having their photo / screensharing recording shared. However, they did approve for me to transcribe and share their impressions._
-
-Positive Remarks
+**Positive Remarks**
 - "The colors seem to have coordination, I feel like red is pleasing to both men and women." 
 - "Easy to read and follow along" 
 - "Aesthetically pleasing website"
 - "The arrows are helpful in order to follow along"
 
-Neutral Remarks
+**Neutral Remarks**
 - "Red is interesting choice, now that I think about it" 
 - "Is it easy to get to this page? It doesn't seem like a homepage"
 
-Ways to Improve
+**Ways to Improve**
 - "Are the extra search bars necessary? What do they search? Do you have to search or can you scroll and click?"
 - "Why does it stop at 11 year olds?"
 - "Is this all on the screen? Would you scroll to a second screen?" 
