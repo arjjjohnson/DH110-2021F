@@ -75,6 +75,14 @@ This impression test was conducted with a **28 yo male** who works within comput
 
 > I ensured that my color contrasts adhere to the WCAG2.0 AA level standard of accessibility, and decided on a non-white background to ensure that users with difficulty reading on a white background feel more comfortable using this site.
 
+Dark Mode Option
+
+![dark](https://user-images.githubusercontent.com/91240122/140996315-c39bf466-02b4-44a6-80ec-60fb4fff6d22.png)
+
+![darker](https://user-images.githubusercontent.com/91240122/140996270-2efd2651-b294-415a-bac7-7f45f09786eb.png)
+
+> highlighting the dark vs. light modes with contrast test
+
 ## Design System
 
 7. Link to the interface design page that shows your test screens and design system information
