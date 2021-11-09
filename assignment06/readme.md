@@ -21,6 +21,21 @@ https://www.figma.com/file/NhXvfObD6LZxxRoE7TvrjO/interface-design?node-id=9%3A1
 ## Screen Design
 
 3. Provide the evidence of graphical user interface design variation (typography, shape, colors)
+
+Grid 
+
+![Wireframe - 1](https://user-images.githubusercontent.com/91240122/140945740-94b563f8-cf32-4920-a8c8-a7c874255401.png)
+
+![Wireframe - 2](https://user-images.githubusercontent.com/91240122/140945818-6f5954db-c1c4-44da-9a56-a7646c08e3ea.png)
+
+Typography
+
+![Typography choices](https://user-images.githubusercontent.com/91240122/140946057-2c51ec0c-ed6a-4ac7-85d5-034009179a40.png)
+
+![Adobe Color Extraction](https://user-images.githubusercontent.com/91240122/140944339-62caa020-d11b-4c06-9e48-cab41c996301.png)
+
+![Adobe pt. 2](https://user-images.githubusercontent.com/91240122/140945126-832dbd15-969d-4d53-a462-12911c31ce33.png)
+
 4. Description of your decision making process about the final graphical interface design
 
 I ensured that my color contrasts adhere to the WCAG2.0 AA level standard of accessibility, and decided on a non-white background to ensure that users with difficulty reading on a white background feel more comfortable using this site. I decided to make the graphic design minimal and uncluttered, providing necessary information as needed but otherwise keeping the interface clean of extraneous information. I designed the interface to be friendly, with rounded buttons, and to resemble the interface of other reading apps such as news paper websites to make the website recognizable as being related to reading.
@@ -33,9 +48,6 @@ I ensured that my color contrasts adhere to the WCAG2.0 AA level standard of acc
 
 6. Evidence of accessibility (color-contrast at least) check
 
-![Adobe Color Extraction](https://user-images.githubusercontent.com/91240122/140944339-62caa020-d11b-4c06-9e48-cab41c996301.png)
-
-![Adobe pt. 2](https://user-images.githubusercontent.com/91240122/140945126-832dbd15-969d-4d53-a462-12911c31ce33.png)
 
 
 
