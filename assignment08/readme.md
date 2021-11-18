@@ -10,6 +10,8 @@ What is the issue and Why do you think it is important to resolve that issue by 
 ### Competitor analysis [assignment01 & 02]:
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
 
+[Read more](https://github.com/arjjjohnson/DH110-2021F/blob/main/assignment01/README.md) 
+
 ### User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
 
