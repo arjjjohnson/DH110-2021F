@@ -15,8 +15,8 @@ Summary and link to the heuristics and usability testing of the *existing* produ
 
 <table>
 <tr>
-<td> <img src=”https://raw.githubusercontent.com/arjjjohnson/DH110-2021F/main/assignment01/arizonagovwebsite.png” height=”300px”> </td>
-<td> <img src=”https://raw.githubusercontent.com/arjjjohnson/DH110-2021F/main/assignment01/arizonagovwebsite.png” height=”300px”> </td>
+<td> <img src="https://raw.githubusercontent.com/arjjjohnson/DH110-2021F/main/assignment01/arizonagovwebsite.png" height="300px"> </td>
+<td> <img src="https://raw.githubusercontent.com/arjjjohnson/DH110-2021F/main/assignment01/arizonagovwebsite.png" height="300px"> </td>
 </tr>
 </table>
 
