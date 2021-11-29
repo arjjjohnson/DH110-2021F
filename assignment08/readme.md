@@ -1,5 +1,6 @@
 <h1>
 <p align="center"> Evaluation of Arizona's Government Pages
+  
   Enhancing the User Experience through Accessible Features
   
 <p align="center"> Amanda Johnson
@@ -7,13 +8,13 @@
 </p>
   
   
-### Introduction: a brief information about the project. 
+<h3> Introduction: a brief information about the project. 
 What is the project about? The motivation of the project and possible contribution.
 
-### Design statement: 
+<h3> Design statement: 
 What is the issue and Why do you think it is important to resolve that issue by your project? 
 
-### Competitor analysis [assignment01 & 02]:
+<h3> Competitor analysis [assignment01 & 02]:
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
 
 ![Alt text to click on image](https://raw.githubusercontent.com/arjjjohnson/DH110-2021F/main/assignment01/arizonagovwebsite.png) 
