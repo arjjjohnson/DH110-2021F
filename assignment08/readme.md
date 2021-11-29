@@ -1,6 +1,5 @@
 # Evaluation of Arizona's Government Pages -- Enhancing the User Experience through Accessible Features
-## **_Amanda Johnson_**
-## Psychologist, UX Researcher
+## **Amanda Johnson** ~ _Psychologist, UX Researcher_
 
 ### Introduction: a brief information about the project. 
 What is the project about? The motivation of the project and possible contribution.
