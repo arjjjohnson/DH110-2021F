@@ -1,20 +1,15 @@
-<h1>
-<p align="center"> Evaluation of Arizona's Government Pages
-  
-  Enhancing the User Experience through Accessible Features
-  
-<p align="center"> Amanda Johnson
-  <p align="center"> Psychologist, UX Researcher
-</p>
+# Evaluation of Arizona's Government Pages -- Enhancing the User Experience through Accessible Features
+## **_Amanda Johnson_**
+## Psychologist, UX Researcher
   
   
-<h3> Introduction: a brief information about the project. 
+### Introduction: a brief information about the project. 
 What is the project about? The motivation of the project and possible contribution.
 
-<h3> Design statement: 
+### Design statement: 
 What is the issue and Why do you think it is important to resolve that issue by your project? 
 
-<h3> Competitor analysis [assignment01 & 02]:
+### Competitor analysis [assignment01 & 02]:
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
 
 ![Alt text to click on image](https://raw.githubusercontent.com/arjjjohnson/DH110-2021F/main/assignment01/arizonagovwebsite.png) 
@@ -50,6 +45,10 @@ Including cognitive walkthrough; impression test, accessibility audit, usability
 ### Pitch video [update the video after recording your presentation]
 ### conclusion: what you learned throughout the process
 
+  <iframe src="https://ucla.zoom.us/rec/share/MY7RiVjOhs-EycAgJyDoptRwmg7_sVHmPZCr3Xjt4iGjGAoeRpICW4hUGdWwkmJr.thMQ0nt-zwX6QZcY" width="640" height="480"></iframe>
+  
+<iframe class="card-img" width="560" height="315" src="https://ucla.zoom.us/rec/share/MY7RiVjOhs-EycAgJyDoptRwmg7_sVHmPZCr3Xjt4iGjGAoeRpICW4hUGdWwkmJr.thMQ0nt-zwX6QZcY" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
 
 Title: 
 
