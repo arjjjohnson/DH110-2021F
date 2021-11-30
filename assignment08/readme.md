@@ -68,7 +68,7 @@ This process was a unique experience. As mentioned above, the pen and paper tech
 
 ### High-fidelity Prototype 
 
-The purpose of this project is to support users in finding and accessing available resources in a clear and accessible manner for all users. This prototypes aims to do just that - 
+The purpose of this project is to support users in finding and accessing available resources in a clear and accessible manner for all users. This prototypes aims to do just that - (For best results, please utilize the fullscreen mode when evaluating this prototype)
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FNhXvfObD6LZxxRoE7TvrjO%2Finterface-design%3Fnode-id%3D291%253A10350%26scaling%3Dmin-zoom%26page-id%3D291%253A9737%26starting-point-node-id%3D291%253A10350%26show-proto-sidebar%3D1" allowfullscreen></iframe>
 
