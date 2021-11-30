@@ -66,7 +66,7 @@ This process was a unique experience. As mentioned above, the pen and paper tech
 
 ![image](https://user-images.githubusercontent.com/91240122/144001040-293f9bb9-25cd-49d4-8a9c-4b80bddba9ce.png)
 
-### High-fidelity prototype (functional/interactive prototype, assignment08)
+### High-fidelity Prototype 
 
 The purpose of this project is to support users in finding and accessing available resources in a clear and accessible manner for all users. This prototypes aims to do just that - 
 
