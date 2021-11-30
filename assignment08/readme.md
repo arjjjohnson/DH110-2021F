@@ -23,8 +23,7 @@ The Arizona Department of Health Services (ADHS) is a state funded agency that p
 #### Usability
 > For this usability pilot test, I recruited a 27 year old female to navigate through various tasks using the Arizona Child & Teen healthcare pages. Although this participant does not have children of her own yet, I knew she would be an ideal candidate for this pilot as she would have an above average knowledge of various websites. Futhermore, throughout our introductions I learned that this participant works within Human Resources and focuses on resource access and data analytics, therefore, deeming her to be considered more of an expert than an average user. Based on my prior Heuristic Evaluation of this webpage, I thought it would be important to explore the navigation of the website as this was a main consider that was brought up. Specifically testing: visibility and system status, user control, consistency with standards.[>> Read more](https://github.com/arjjjohnson/DH110-2021F/blob/main/assignment02/README.md) 
 
-### User research [contextual inquiry, assignment04]:
-
+### User Research
 The purpose of UX storytelling is to consider the perspectives of the users to allow for an unbiased insight into the feature being explored. This process includes taking the user's perspective and understanding how they see the product and more importantly, how they would use it. Telling stories gives us a sense of culture, history, and personal identity. It allows us to come at problems from a place of empathy rather than only problem solving. This in turns allows us to create products specifically with the user in mind. [>> Read more](https://github.com/arjjjohnson/DH110-2021F/blob/main/assignment04/README.md) 
 
 <table>
@@ -40,7 +39,7 @@ For more insight into the specific needs of the users, I surveyed 51 users.  The
 
 [>> Read more](https://github.com/arjjjohnson/DH110-2021F/blob/main/assignment03/README.md) 
 
-### UX storytelling [persona+scenario, assignment05]
+### UX Storytelling
 
 From the field research gathered it seems that the solution is simple, first off, we know that families aren’t happy with how they access care, we know that practitioners are looking for a way to integrate technology to ultimately ease some of their workloads, therefore, like i mentioned, the answer seems easy, create an application that expedites this process and allows families, individuals, practitioners the freedom to do it on their own time and focusing on their own needs. [>> Read more](https://github.com/arjjjohnson/DH110-2021F/blob/main/assignment05/README.md) 
 
@@ -61,6 +60,7 @@ Storyboard background & Solution
 
 
 
+
 ### Low-fidelity prototype (wireflow, assignment06)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
 
@@ -74,19 +74,19 @@ The coronavirus pandemic and its impact on children and families is vast even if
 
 This prototypes aims to do just that - 
 
-[LINK TO PROTOTYPE]
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height=”50%” src="https://www.figma.com/proto/NhXvfObD6LZxxRoE7TvrjO/interface-design?node-id=291%3A10350&scaling=min-zoom&page-id=291%3A9737&starting-point-node-id=291%3A10350&show-proto-sidebar=1" allowfullscreen></iframe>
 
-### Optional evaluation and revision history 
-Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+### Evaluation and Revision History 
 
 Impression Test
 > Through the impression test, I was really able to see how I could make this project my own moving forward and where it needed to go in order to easily communicate with the users. The user was overall very positive about the current iteration. He stated that it's interesting to choose red, since it is commonly more pleasing for men than women. He was stating how this could be important as he would imagine having to seek out resources or support as a father might be an intimidating task. This was a perspective I had not initially thought of as we know men are less likely to actively seek out resources or support unless it's imperative.
 
 Usability Testing
-> 
+> Text... 
 
 
 Cognitive Walk-Through
+> Text... 
 
   <iframe src="https://ucla.zoom.us/rec/share/MY7RiVjOhs-EycAgJyDoptRwmg7_sVHmPZCr3Xjt4iGjGAoeRpICW4hUGdWwkmJr.thMQ0nt-zwX6QZcY" width="640" height="480"></iframe>
 
