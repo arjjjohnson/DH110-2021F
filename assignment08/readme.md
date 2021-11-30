@@ -1,8 +1,8 @@
 # Evaluation of Arizona's Government Pages -- Enhancing the User Experience through Accessible Features
 ## **Amanda Johnson** ~ _Psychologist, UX Researcher_
 
-### Introduction: a brief information about the project. 
-What is the project about? The motivation of the project and possible contribution.
+### Introduction: a brief information about the project.
+The COVID-19 pandemic will long present as one of the bleakest times in American history reaching almost 400,000 deaths from the virus alone as we pass the year mark of the declaration of a global pandemic (Centers for Disease Control and Prevention, 2021). As the pandemic continues to pose extraordinary threats to human development and fundamental disruptions to healthcare services, understanding our role and the change we can bring as innovators and developers is more important than ever. The effects for children, especially those with healthcare needs have been even more stark, with this period resulting in lack of access to needed resources and support they would often receive. Therefore, I chose to explore the Arizona's Healthcare .gov webpages as a means to identify these potential gaps and barriers to accessing the care and support they may need.
 
 ### Design statement: 
 What is the issue and Why do you think it is important to resolve that issue by your project? 
@@ -21,7 +21,12 @@ Summary and link to the heuristics and usability testing of the *existing* produ
 </table>
 
 
-[>> Read more](https://github.com/arjjjohnson/DH110-2021F/blob/main/assignment01/README.md) 
+The Arizona Department of Health Services (ADHS) is a state funded agency that provides health services to the State's population. The image below shows the homepage of the ADHS is dedicated to providing up to date information and resources to ensure the health and safety of the people of Arizona. With the current climate of the United States, this homepage focuses on the novel COVID-19 pandemic, and primarily focuses on access to resources and guidance related to the pandemic. [>> Read more](https://github.com/arjjjohnson/DH110-2021F/blob/main/assignment01/README.md) 
+
+
+For this usability pilot test, I recruited a 27 year old female to navigate through various tasks using the Arizona Child & Teen healthcare pages. Although this participant does not have children of her own yet, I knew she would be an ideal candidate for this pilot as she would have an above average knowledge of various websites. Futhermore, throughout our introductions I learned that this participant works within Human Resources and focuses on resource access and data analytics, therefore, deeming her to be considered more of an expert than an average user. Based on my prior Heuristic Evaluation of this webpage, I thought it would be important to explore the navigation of the website as this was a main consider that was brought up. Specifically testing: visibility and system status, user control, consistency with standards.
+
+(https://github.com/arjjjohnson/DH110-2021F/blob/main/assignment02/README.md) 
 
 ### User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
@@ -33,6 +38,8 @@ Summary and link to your assignment folder
 
 ### Low-fidelity prototype (wireflow, assignment06)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
+
+
 
 ### High-fidelity prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
