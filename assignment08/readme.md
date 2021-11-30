@@ -1,5 +1,4 @@
-# Evaluation of Arizona's Government Pages
-An Innovative Approach to Interrupt the Services & Treatment Landscape: A new way to support and connect individuals, families and practitioners
+# An Innovative Approach to Interrupt the Services & Treatment Landscape: A new way to support and connect individuals, families and practitioners (Evaluation of Arizona's Department of Health Webpages)
 ## **Amanda Johnson** ~ _Psychologist, UX Researcher_
 
 ### Introduction: a brief information about the project.
