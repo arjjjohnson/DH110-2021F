@@ -1,4 +1,4 @@
-# An Innovative Approach to Interrupt the Services & Treatment Landscape: A new way to support and connect individuals, families and practitioners (Evaluation of Arizona's Department of Health Webpages)
+# An Innovative Approach to Interrupt the Services & Treatment Landscape: A new way to support and connect individuals, families and practitioners
 ## **Amanda Johnson** ~ _Psychologist, UX Researcher_
 
 ### Introduction
@@ -24,16 +24,35 @@ The Arizona Department of Health Services (ADHS) is a state funded agency that p
 > For this usability pilot test, I recruited a 27 year old female to navigate through various tasks using the Arizona Child & Teen healthcare pages. Although this participant does not have children of her own yet, I knew she would be an ideal candidate for this pilot as she would have an above average knowledge of various websites. Futhermore, throughout our introductions I learned that this participant works within Human Resources and focuses on resource access and data analytics, therefore, deeming her to be considered more of an expert than an average user. Based on my prior Heuristic Evaluation of this webpage, I thought it would be important to explore the navigation of the website as this was a main consider that was brought up. Specifically testing: visibility and system status, user control, consistency with standards.[>> Read more](https://github.com/arjjjohnson/DH110-2021F/blob/main/assignment02/README.md) 
 
 ### User research [contextual inquiry, assignment04]:
-Summary and link to your assignment folder
 
-[>> Read more](https://github.com/arjjjohnson/DH110-2021F/blob/main/assignment04/README.md) 
+The purpose of UX storytelling is to consider the perspectives of the users to allow for an unbiased insight into the feature being explored. This process includes taking the user's perspective and understanding how they see the product and more importantly, how they would use it. Telling stories gives us a sense of culture, history, and personal identity. It allows us to come at problems from a place of empathy rather than only problem solving. This in turns allows us to create products specifically with the user in mind. [>> Read more](https://github.com/arjjjohnson/DH110-2021F/blob/main/assignment04/README.md) 
+
+![image](https://user-images.githubusercontent.com/91240122/143993513-09a3a084-58d1-4b4f-9e33-3c42750a3dcd.png)
+
 
 ### UX storytelling [persona+scenario, assignment05]
-Summary and link to your assignment folder
 
+From the field research gathered it seems that the solution is simple, first off, we know that families aren’t happy with how they access care, we know that practitioners are looking for a way to integrate technology to ultimately ease some of their workloads, therefore, like i mentioned, the answer seems easy, create an application that expedites this process and allows families, individuals, practitioners the freedom to do it on their own time and focusing on their own needs. 
+
+To my surprise, as well as yours now, it hasn’t been done yet. Therefore, the solution is to create a tool that ties together these three essential elements together 
+- 1. The ability to access support to determine whether your child needs more comprehensive evaluation 
+- 2. The ability to connect with provider DIRECTLY in your are (using geolocation)
+- 3. The ability to communicate with these providers without having to set up numerous consultations and therefore, being effective and efficient support straight to your mobile device. 
+- 4. The ability to create a network of social network of support with others nearby
 [>> Read more](https://github.com/arjjjohnson/DH110-2021F/blob/main/assignment05/README.md) 
 
+To demonstrate the purpose of this proposed lo-fi prototype, I've created a storyboard from users facing these choices. 
+
+Storyboard background 
+![storyboard](https://user-images.githubusercontent.com/91240122/140579220-a49d7b17-c82f-483f-9867-13948cc4265e.png)
+
+Solution
+![storyboard pt 2](https://user-images.githubusercontent.com/91240122/140579384-80050380-b290-4532-8369-d052edfa9aa2.png)
+
 ### Wireframe and graphic design element variation [assignment06 + part of 07]
+
+
+
 
 ### Low-fidelity prototype (wireflow, assignment06)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
@@ -43,10 +62,18 @@ Summary and link to the sketches (may contains the multiple versions and evaluat
 [>> Read more](https://github.com/arjjjohnson/DH110-2021F/blob/main/assignment07/README.md) 
 
 ### High-fidelity prototype (functional/interactive prototype, assignment08)
-Summary statement and link to or an embedded prototype
+
+The coronavirus pandemic and its impact on children and families is vast even if the longitudinal effects of such a traumatic experience during pivotal developmental periods is not yet known. As the COVID-19 pandemic continues and society faces challenges like never before, finding ways to support families in accessing health services for their children is more important than ever. There seems to be an unprecedented landscape of opportunities for technology to make an impact in the assessment, access to care, and digit resources. Digital health was already on the rise before the COVID-19 pandemic but has accelerated exponentially. While part of this has been a function of necessity, the other part stems from technology being able to make access to care more accessible than every before. This change has become an area of growing preference as well, as patients and providers have benefited from the convenience of telemedicine and the novel capabilities of the broader telehealth modality. Therefore, the purpose of this project is to support users in finding and accessing available resources in a clear and accessible manner for all users. 
+
+This prototypes aims to do just that - 
+
+[LINK TO PROTOTYPE]
 
 ### Optional evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+
+
+
 
 
 
