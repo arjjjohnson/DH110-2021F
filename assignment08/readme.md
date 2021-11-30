@@ -91,7 +91,7 @@ Moving forward, it's imperative to continue collecting elicit qualitative and ad
 
 ### Pitch
 
- <iframe src="https://youtu.be/uDUiY-d8HX8" width="640" height="480"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uDUiY-d8HX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Conclusion
 
