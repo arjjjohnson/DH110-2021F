@@ -91,7 +91,7 @@ Moving forward, it's imperative to continue collecting elicit qualitative and ad
 
 ### Pitch
 
- <iframe src="https://ucla.zoom.us/rec/play/iiwmH_B99uP4smR0l-ndsNWMqmFdphBUzUPNr-4gSR3j6I8hT22KJWayKeYh3U8A1wXcMRLWB3CPCOuQ.7JycAj84DpPT8v_n" width="640" height="480"></iframe>
+ <iframe src="https://youtu.be/uDUiY-d8HX8" width="640" height="480"></iframe>
 
 ### Conclusion
 
