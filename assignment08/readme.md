@@ -27,8 +27,12 @@ The Arizona Department of Health Services (ADHS) is a state funded agency that p
 
 The purpose of UX storytelling is to consider the perspectives of the users to allow for an unbiased insight into the feature being explored. This process includes taking the user's perspective and understanding how they see the product and more importantly, how they would use it. Telling stories gives us a sense of culture, history, and personal identity. It allows us to come at problems from a place of empathy rather than only problem solving. This in turns allows us to create products specifically with the user in mind. [>> Read more](https://github.com/arjjjohnson/DH110-2021F/blob/main/assignment04/README.md) 
 
-![image](https://user-images.githubusercontent.com/91240122/143993513-09a3a084-58d1-4b4f-9e33-3c42750a3dcd.png)
-
+<table>
+<tr>
+<td> <img src="https://user-images.githubusercontent.com/91240122/143993513-09a3a084-58d1-4b4f-9e33-3c42750a3dcd.png" height="300px"> </td>
+<td> <img src="https://user-images.githubusercontent.com/91240122/143995634-f07d5c14-a250-430d-a5c7-dfb21205dde6.png" height="300px"> </td>
+</tr>
+</table>
 
 ### UX storytelling [persona+scenario, assignment05]
 
@@ -43,11 +47,15 @@ To my surprise, as well as yours now, it hasn’t been done yet. Therefore, the 
 
 To demonstrate the purpose of this proposed lo-fi prototype, I've created a storyboard from users facing these choices. 
 
-Storyboard background 
-![storyboard](https://user-images.githubusercontent.com/91240122/140579220-a49d7b17-c82f-483f-9867-13948cc4265e.png)
+Storyboard background & Solution
 
-Solution
-![storyboard pt 2](https://user-images.githubusercontent.com/91240122/140579384-80050380-b290-4532-8369-d052edfa9aa2.png)
+<table>
+<tr>
+<td> <img src="https://user-images.githubusercontent.com/91240122/140579220-a49d7b17-c82f-483f-9867-13948cc4265e.png" height="300px"> </td>
+<td> <img src="https://user-images.githubusercontent.com/91240122/140579384-80050380-b290-4532-8369-d052edfa9aa2.png" height="300px"> </td>
+</tr>
+</table>
+
 
 ### Wireframe and graphic design element variation [assignment06 + part of 07]
 
@@ -72,28 +80,14 @@ This prototypes aims to do just that -
 ### Optional evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
-
-
-
-
-
-### Pitch video [update the video after recording your presentation]
-### conclusion: what you learned throughout the process
+Cognitive Walk through
 
   <iframe src="https://ucla.zoom.us/rec/share/MY7RiVjOhs-EycAgJyDoptRwmg7_sVHmPZCr3Xjt4iGjGAoeRpICW4hUGdWwkmJr.thMQ0nt-zwX6QZcY" width="640" height="480"></iframe>
-  
-<iframe class="card-img" width="560" height="315" src="https://ucla.zoom.us/rec/share/MY7RiVjOhs-EycAgJyDoptRwmg7_sVHmPZCr3Xjt4iGjGAoeRpICW4hUGdWwkmJr.thMQ0nt-zwX6QZcY" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
 
-Title: 
+### Pitch video [update the video after recording your presentation]
 
-Problem/Design Statement: 
 
-What is your project title?
-What was the ux design problem/challenge you wanted to solve? 
-Did you conduct research? (1: competitor analysis, 2: contextual inquiry)
-What were your ideas for the solution? (3: persona, 4: scenario, 5: wireframes, 6: wireflow, 7: GUI design variations, 8: interactive prototype)
-How do you know it would work? (9: UT and other evaluation)
-Presentation 
+### Conclusion
 
 Here was the process ... Here is what I learned .... 
+One thing I learned with this project is that there is always more that you can edit and change, with the time limitations on assignments, I had to push myself to focus on select tasks rather than making a fully operational prototype. Additionally, I found that starting from scratch was almost easier than taking a constructed webpage and adding features. 
