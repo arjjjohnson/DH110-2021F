@@ -34,18 +34,17 @@ The purpose of UX storytelling is to consider the perspectives of the users to a
 </tr>
 </table>
 
+For more insight into the specific needs of the users, I surveyed 51 users.  The purpose being to gain insight into context of parents and children, I wanted to reach as many individuals in the field as possible so I could see what there needs are. I understand, that this seems like a step back from watching individuals with various scenarios, but to reduce my own bias on the context, I needed to ask real people what was happening with their access to services, especially the key stakeholders: Parents, Educators, Practioners. Below is a sticky note representation of their top needs. 
+
+![image](https://user-images.githubusercontent.com/91240122/143999029-ca66b585-346c-4c5d-8555-c2067a9d124d.png)
+
+[>> Read more](https://github.com/arjjjohnson/DH110-2021F/blob/main/assignment03/README.md) 
+
 ### UX storytelling [persona+scenario, assignment05]
 
-From the field research gathered it seems that the solution is simple, first off, we know that families aren’t happy with how they access care, we know that practitioners are looking for a way to integrate technology to ultimately ease some of their workloads, therefore, like i mentioned, the answer seems easy, create an application that expedites this process and allows families, individuals, practitioners the freedom to do it on their own time and focusing on their own needs. 
+From the field research gathered it seems that the solution is simple, first off, we know that families aren’t happy with how they access care, we know that practitioners are looking for a way to integrate technology to ultimately ease some of their workloads, therefore, like i mentioned, the answer seems easy, create an application that expedites this process and allows families, individuals, practitioners the freedom to do it on their own time and focusing on their own needs. [>> Read more](https://github.com/arjjjohnson/DH110-2021F/blob/main/assignment05/README.md) 
 
-To my surprise, as well as yours now, it hasn’t been done yet. Therefore, the solution is to create a tool that ties together these three essential elements together 
-- 1. The ability to access support to determine whether your child needs more comprehensive evaluation 
-- 2. The ability to connect with provider DIRECTLY in your are (using geolocation)
-- 3. The ability to communicate with these providers without having to set up numerous consultations and therefore, being effective and efficient support straight to your mobile device. 
-- 4. The ability to create a network of social network of support with others nearby
-[>> Read more](https://github.com/arjjjohnson/DH110-2021F/blob/main/assignment05/README.md) 
-
-To demonstrate the purpose of this proposed lo-fi prototype, I've created a storyboard from users facing these choices. 
+To demonstrate the purpose of this proposed lo-fi prototype, I've created a storyboard from user feedback and how they might be facing these choices. 
 
 Storyboard background & Solution
 
@@ -80,12 +79,18 @@ This prototypes aims to do just that -
 ### Optional evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
-Cognitive Walk through
+Impression Test
+> Through the impression test, I was really able to see how I could make this project my own moving forward and where it needed to go in order to easily communicate with the users. The user was overall very positive about the current iteration. He stated that it's interesting to choose red, since it is commonly more pleasing for men than women. He was stating how this could be important as he would imagine having to seek out resources or support as a father might be an intimidating task. This was a perspective I had not initially thought of as we know men are less likely to actively seek out resources or support unless it's imperative.
+
+Usability Testing
+> 
+
+
+Cognitive Walk-Through
 
   <iframe src="https://ucla.zoom.us/rec/share/MY7RiVjOhs-EycAgJyDoptRwmg7_sVHmPZCr3Xjt4iGjGAoeRpICW4hUGdWwkmJr.thMQ0nt-zwX6QZcY" width="640" height="480"></iframe>
 
-### Pitch video [update the video after recording your presentation]
-
+Moving forward, it's imperative to continue collecting elicit qualitative and additional quantitative data (e.g. focus group testing and user surveys, respectively) to obtain nuanced and actionable feedback throughout the development process. It will be beneficial for me to continue learning ways to interact with users as well as save various iterations of this project.
 
 ### Conclusion
 
