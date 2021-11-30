@@ -79,6 +79,7 @@ Impression Test
 
 Usability Testing
 > Round 1: For this usability pilot test, I recruited a 27 year old female to navigate through various tasks using the Arizona Child & Teen healthcare pages. Although this participant does not have children of her own yet, I knew she would be an ideal candidate for this pilot as she would have an above average knowledge of various websites. Futhermore, throughout our introductions I learned that this participant works within Human Resources and focuses on resource access and data analytics, therefore, deeming her to be considered more of an expert than an average user. Based on my prior Heuristic Evaluation of this webpage, I thought it would be important to explore the navigation of the website as this was a main consider that was brought up. Specifically testing: visibility and system status, user control, consistency with standards.[>> Read more](https://github.com/arjjjohnson/DH110-2021F/blob/main/assignment02/README.md) 
+>
 > Usability Testing was conducted at each round of decision making. Even now, I'm still finalizing the complete product to ensure I am adaquately capturing the users needs. The main functionality I chose to focus on was the menu and drop down pages -- after multiple rounds of user feedback etc. the issue that kept coming up was the navigation buttons and how to access the site from the page they were on. My users reported feeling that they were thrown into the website without making choices for themselves. 
 
 Cognitive Walk-Through
