@@ -90,8 +90,13 @@ Cognitive Walk-Through
 
 Moving forward, it's imperative to continue collecting elicit qualitative and additional quantitative data (e.g. focus group testing and user surveys, respectively) to obtain nuanced and actionable feedback throughout the entire development process. It will be beneficial for me to continue learning ways to interact with users as well as save various iterations of this project.[>> Read more](https://github.com/arjjjohnson/DH110-2021F/blob/main/assignment07/README.md) 
 
+### Pitch
+
+ <iframe src="https://ucla.zoom.us/rec/share/NdhXQVb9LVDkWAU5nfATMKuiU1RLvOFzeCwPP6wwQwEMtOz9Y1AZTQ1gcAJy4RGM.rcIMqJmeeO0zao_v" width="640" height="480"></iframe>
+
 ### Conclusion
 
 The coronavirus pandemic and its impact on children and families is vast even if the longitudinal effects of such a traumatic experience during pivotal developmental periods is not yet known. As the COVID-19 pandemic continues and society faces challenges like never before, finding ways to support families in accessing health services for their children is more important than ever. There seems to be an unprecedented landscape of opportunities for technology to make an impact in the assessment, access to care, and digit resources. Digital health was already on the rise before the COVID-19 pandemic but has accelerated exponentially. While part of this has been a function of necessity, the other part stems from technology being able to make access to care more accessible than every before. This change has become an area of growing preference as well, as patients and providers have benefited from the convenience of telemedicine and the novel capabilities of the broader telehealth modality.
 
 One thing I learned with this project is that there is always more that you can edit and change, with the time limitations on assignments, I had to push myself to focus on select tasks rather than making a fully operational prototype. Additionally, I found that starting from scratch was almost easier than taking a constructed webpage and adding features. 
+
