@@ -54,25 +54,21 @@ Storyboard background & Solution
 </tr>
 </table>
 
+### Wireframe and Graphic Design Element Variation
 
-### Wireframe and graphic design element variation [assignment06 + part of 07]
+While making decisions in this process, it was important to me to make the graphic design minimal and simplistic, therefore, aiming to only provide necessary information to. I designed the interface to be friendly, with bannered buttons and rounded edges, while keeping notable symbols (i.e., the navigation bar) in their original form to support universal understanding. [>> Read more](https://github.com/arjjjohnson/DH110-2021F/blob/main/assignment06/README.md) 
 
+![image](https://user-images.githubusercontent.com/91240122/144001093-8fa77ce9-060a-4e05-87df-e2664d32fe82.png)
 
+### Low-Fidelity Prototype
 
+This process was a unique experience. As mentioned above, the pen and paper technique proved to be much more difficult than I originally expected. However, my participant was able to follow my conceptual process and was able to see the design ideas. They were impressed with how much can exactually be extracted from a small wireframe task. I wasn't expecting the user to have questions beyond the task stated and being curious what other buttons meant that they were not directly using. As such, I would definitely like to try my hand at digitizing this process in the future. Testing the prototype in its current form deemed to be a difficult task. There is a balance between including too much information where the user gets confused but also not including enough information then the user gets lost. Overall, I feel that creating digitized wireframes / wireflows would have allowed me to create and test more scenarios, situations, and steps more easily and may have provided a smoother experience for the test user. However, I feel that the testing that did occur was still beneficial for me because it highlighted the importance of small details for the user in deciding what to choose their actions and how they may or may not feel supported by the website they're using. [>> Read more](https://github.com/arjjjohnson/DH110-2021F/blob/main/assignment05/README.md) 
 
-
-### Low-fidelity prototype (wireflow, assignment06)
-Summary and link to the sketches (may contains the multiple versions and evaluation history)
-
-[>> Read more](https://github.com/arjjjohnson/DH110-2021F/blob/main/assignment06/README.md) 
-
-[>> Read more](https://github.com/arjjjohnson/DH110-2021F/blob/main/assignment07/README.md) 
+![image](https://user-images.githubusercontent.com/91240122/144001040-293f9bb9-25cd-49d4-8a9c-4b80bddba9ce.png)
 
 ### High-fidelity prototype (functional/interactive prototype, assignment08)
 
-The coronavirus pandemic and its impact on children and families is vast even if the longitudinal effects of such a traumatic experience during pivotal developmental periods is not yet known. As the COVID-19 pandemic continues and society faces challenges like never before, finding ways to support families in accessing health services for their children is more important than ever. There seems to be an unprecedented landscape of opportunities for technology to make an impact in the assessment, access to care, and digit resources. Digital health was already on the rise before the COVID-19 pandemic but has accelerated exponentially. While part of this has been a function of necessity, the other part stems from technology being able to make access to care more accessible than every before. This change has become an area of growing preference as well, as patients and providers have benefited from the convenience of telemedicine and the novel capabilities of the broader telehealth modality. Therefore, the purpose of this project is to support users in finding and accessing available resources in a clear and accessible manner for all users. 
-
-This prototypes aims to do just that - 
+The purpose of this project is to support users in finding and accessing available resources in a clear and accessible manner for all users. This prototypes aims to do just that - 
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FNhXvfObD6LZxxRoE7TvrjO%2Finterface-design%3Fnode-id%3D291%253A10350%26scaling%3Dmin-zoom%26page-id%3D291%253A9737%26starting-point-node-id%3D291%253A10350%26show-proto-sidebar%3D1" allowfullscreen></iframe>
 
@@ -82,17 +78,17 @@ Impression Test
 > Through the impression test, I was really able to see how I could make this project my own moving forward and where it needed to go in order to easily communicate with the users. The user was overall very positive about the current iteration. He stated that it's interesting to choose red, since it is commonly more pleasing for men than women. He was stating how this could be important as he would imagine having to seek out resources or support as a father might be an intimidating task. This was a perspective I had not initially thought of as we know men are less likely to actively seek out resources or support unless it's imperative.
 
 Usability Testing
-> Text... 
-
+> Usability Testing was conducted at each round of decision making. Even now, I'm still finalizing the complete product to ensure I am adaquately capturing the users needs. The main functionality I chose to focus on was the menu and drop down pages -- after multiple rounds of user feedback etc. the issue that kept coming up was the navigation buttons and how to access the site from the page they were on. My users reported feeling that they were thrown into the website without making choices for themselves. 
 
 Cognitive Walk-Through
-> Text... 
+> The cognitive walk-through highlighted some important key 
 
   <iframe src="https://ucla.zoom.us/rec/share/MY7RiVjOhs-EycAgJyDoptRwmg7_sVHmPZCr3Xjt4iGjGAoeRpICW4hUGdWwkmJr.thMQ0nt-zwX6QZcY" width="640" height="480"></iframe>
 
-Moving forward, it's imperative to continue collecting elicit qualitative and additional quantitative data (e.g. focus group testing and user surveys, respectively) to obtain nuanced and actionable feedback throughout the development process. It will be beneficial for me to continue learning ways to interact with users as well as save various iterations of this project.
+Moving forward, it's imperative to continue collecting elicit qualitative and additional quantitative data (e.g. focus group testing and user surveys, respectively) to obtain nuanced and actionable feedback throughout the entire development process. It will be beneficial for me to continue learning ways to interact with users as well as save various iterations of this project.[>> Read more](https://github.com/arjjjohnson/DH110-2021F/blob/main/assignment07/README.md) 
 
 ### Conclusion
 
-Here was the process ... Here is what I learned .... 
+The coronavirus pandemic and its impact on children and families is vast even if the longitudinal effects of such a traumatic experience during pivotal developmental periods is not yet known. As the COVID-19 pandemic continues and society faces challenges like never before, finding ways to support families in accessing health services for their children is more important than ever. There seems to be an unprecedented landscape of opportunities for technology to make an impact in the assessment, access to care, and digit resources. Digital health was already on the rise before the COVID-19 pandemic but has accelerated exponentially. While part of this has been a function of necessity, the other part stems from technology being able to make access to care more accessible than every before. This change has become an area of growing preference as well, as patients and providers have benefited from the convenience of telemedicine and the novel capabilities of the broader telehealth modality.
+
 One thing I learned with this project is that there is always more that you can edit and change, with the time limitations on assignments, I had to push myself to focus on select tasks rather than making a fully operational prototype. Additionally, I found that starting from scratch was almost easier than taking a constructed webpage and adding features. 
