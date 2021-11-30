@@ -1,5 +1,5 @@
 # DH110-2021F
-UX Course - Rep 1
+Amanda Johnson, Psychologist & UX Researcher
 ## MAIN PAGE FOR AMANDA JOHNSON
 This repository is for 110: UX+UI design course.
 
