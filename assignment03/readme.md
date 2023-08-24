@@ -1,9 +1,8 @@
-### Qualitative User Research [Contextual Inquiry]
+### Qualitative User Research (Contextual Inquiry)
 #### Research and Documentation by Amanda Johnson
 ---
 
-# Learning from people in context
----
+# Qualitative User Research: Learning from people in context
 
 ## Introduction Steps 
 
