@@ -1,7 +1,7 @@
-# Usability Testing
-# Author: Amanda Johnson
+### Usability Testing
+### Author: Amanda Johnson
 
-## Usability Evaluation of Arizona's Child & Teen Healthcare webpages.
+# Usability Evaluation of Arizona's Child & Teen Healthcare webpages.
 For this usability pilot test, I recruited a 27 year old female to navigate through various tasks using the Arizona Child & Teen healthcare pages. Although this participant does not have children of her own yet, I knew she would be an ideal candidate for this pilot as she would have an above average knowledge of various websites. Futhermore, throughout our introductions I learned that this participant works within Human Resources and focuses on resource access and data analytics, therefore, deeming her to be considered more of an expert than an average user. Based on my prior Heuristic Evaluation of this webpage, I thought it would be important to explore the navigation of the website as this was a main consider that was brought up. Specifically testing: visibility and system status, user control, consistency with standards. 
 
 [Child & Teen Health and Wellness](childteenhealth.png)
