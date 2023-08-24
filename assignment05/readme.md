@@ -1,10 +1,11 @@
 ### Wireframing
-### Author: Amanda Johnson
+#### Research and Documentation by Amanda Johnson
+---
 
 # UX Wireframing
 
-## Overview
-### Description
+### Overview
+##### Description
 
 From the field research gathered it seems that the solution is simple, first off, we know that families aren’t happy with how they access care, we know that practitioners are looking for a way to integrate technology to ultimately ease some of their workloads, therefore, like i mentioned, the answer seems easy, create an application that expedites this process and allows families, individuals, practitioners the freedom to do it on their own time and focusing on their own needs. 
 
