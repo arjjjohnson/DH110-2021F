@@ -1,5 +1,5 @@
-##### Heuristic Evaluation of Arizona's Department of Health .gov webpages
-##### Author: Amanda Johnson
+### Heuristic Evaluation of Arizona's Department of Health .gov webpages
+#### Research and Documentation by Amanda Johnson
 ---
 
 # Access & Care: Addressing Health Disparities Through Functional and Accessible Webpages
