@@ -1,4 +1,5 @@
-### Amanda Johnson
+#### Research and Documentation by Amanda Johnson
+---
 # Interactive Prototype
 
 
