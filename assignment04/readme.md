@@ -1,5 +1,6 @@
 ### UX Storytelling
-### Amanda Johnson
+#### Research and Documentation by Amanda Johnson
+---
 
 # Storytelling
 ## The Purpose of UX Storytelling
