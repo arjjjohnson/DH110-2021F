@@ -1,7 +1,6 @@
-Amanda Johnson
+### Author: Amanda Johnson
 
-DH110: User Experience and Design
-UX interface Design
+# UX Interface Design
 
 ## Brief Description of Project
 
