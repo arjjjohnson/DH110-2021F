@@ -1,7 +1,7 @@
-Amanda Johnson
+### Wireframing
+### Author: Amanda Johnson
 
-DH110: User Experience and Design
-UX Wireframe/Paper_protoype
+# UX Wireframing (Paper Protoype)
 
 ## Overview
 ### Description
