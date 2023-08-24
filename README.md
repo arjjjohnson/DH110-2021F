@@ -1,8 +1,14 @@
-# Amanda Johnson Ph. D., UX Researcher & Psychologist 
+### Amanda Johnson Ph. D., 
+#### UX Researcher & Psychologist 
+---
+
 ## Case Study of Arizona's Department of Health Webpages
 
 #### Background
+add some background here
 
+For quick links 
+[1. Heuristic Evaluation](https://arjjjohnson.github.io/UXPortfolio/assignment01/) |  [2. Usability Testing](https://arjjjohnson.github.io/UXPortfolio/assignment02/) |  [3. Qualitative User Research](https://arjjjohnson.github.io/UXPortfolio/assignment03/) |  [4. UX Storytelling](https://arjjjohnson.github.io/UXPortfolio/assignment04/) |  [5. Wireframing](https://arjjjohnson.github.io/UXPortfolio/assignment05/) |  [6. Interface Design & Low-fidelity Prototype](https://arjjjohnson.github.io/UXPortfolio/assignment06/) |  [7. Interactive Prototype](https://arjjjohnson.github.io/UXPortfolio/assignment07/) 
 
 # An Innovative Approach to Interrupt the Services & Treatment Landscape: A new way to support, and connect individuals, families, and practitioners
 
