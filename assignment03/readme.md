@@ -1,5 +1,6 @@
 ### Qualitative User Research [Contextual Inquiry]
-### Author: Amanda Johnson
+#### Research and Documentation by Amanda Johnson
+---
 
 # Learning from people in context
 ---
