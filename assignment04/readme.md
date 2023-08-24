@@ -1,8 +1,7 @@
-Amanda Johnson
+### UX Storytelling
+### Amanda Johnson
 
-DH110: User Experience and Design
-UX Storytelling
-
+# Storytelling
 ## The Purpose of UX Storytelling
 * The purpose of UX storytelling is to consider the perspectives of the users to allow for an unbiased insight into the feature being explored. This process includes taking the user's perspective and understanding how they see the product and more importantly, how they would use it. Telling stories gives us a sense of culture, history, and personal identity. It allows us to come at problems from a place of empathy rather than only problem solving. This in turns allows us to create products specifically with the user in mind. 
 
