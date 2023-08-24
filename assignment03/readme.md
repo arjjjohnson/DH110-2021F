@@ -1,7 +1,5 @@
-DH110: User Experience and Design
-Qualitative User Research [Contextual Inquiry]
-
-Amanda Johnson
+### Qualitative User Research [Contextual Inquiry]
+### Author: Amanda Johnson
 
 # Learning from people in context
 ---
