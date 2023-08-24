@@ -1,5 +1,5 @@
-##### Assignment01: Heuristic Evaluation of Arizona's Department of Health .gov webpages
-##### Amanda Johnson | DH110 | F21
+##### Heuristic Evaluation of Arizona's Department of Health .gov webpages
+##### Author: Amanda Johnson
 ---
 
 # Access & Care: Addressing Health Disparities Through Functional and Accessible Webpages
@@ -8,17 +8,19 @@ The COVID-19 pandemic will long present as one of the bleakest times in American
 
 
 Jakob Neilson's [10 Usability Heuristics Explained](https://www.nngroup.com/articles/ten-usability-heuristics/)
-| ------------------------|
-| **1. Visibilty of System Status**: The design should allow users to feel informed with feedback and support options/availability | 
-| **2. Match between System & Real World**: Design systems and pages based on familiar ideas and concepts to provide some intuitive knowledge for the user |
-| **3. User Control & Freedom**: The system should allow for users to perform actions freely without consequence. There should be a "go back" or out option easily available | 
-| **4. Consistency & Standards**: Users should not have to wonder whether different words, contexts, or actions mean the same thing. These should meet industry standards that are expected by the user  | 
-| **5. Error Prevention**: Provide enough clarity on the webpage so users are not questioning their actions and whether these actions will result in an error. Have an available check embedded for them and present users with a confirmation option before they commit to an action (if this cannot be prevented in the first place).  | 
-| **6. Recognition Rather than Recall**: Minimize the user's memory load by making elements, actions, and options visible. The user should not have to remember information from one part of the interface to another. Information required to use the design (e.g. field labels or menu items) should be visible or easily retrievable when needed. |
-| **7. Flexibility & Efficiency of Use**: The design should be easier to use for all the user groups. | 
-| **8. Aesthetic & Minimalist Design**: Grab users attention towards the action need to be done there. |
-| **9. Help Users Recognize, Diagnose, & Recover from Errors**: Error messages should be clear and easy to understand and intrepret (wihtout code), while explaining the issue and the solution to move forward. |
-| **10. Help & Documentation**: Ideally, the user is able to intuitively explore the site through past experience and clear directions (without explanation), however, it may be beneficial to provide documentment for users that may be unsure.  | 
+
+| # |  Usability Heuristics | 
+| ------------------------|--------------------------|
+| 1 |**Visibilty of System Status**: The design should allow users to feel informed with feedback and support options/availability | 
+| 2 |**Match between System & Real World**: Design systems and pages based on familiar ideas and concepts to provide some intuitive knowledge for the user |
+| 3 | **User Control & Freedom**: The system should allow for users to perform actions freely without consequence. There should be a "go back" or out option easily available | 
+| 4 | **Consistency & Standards**: Users should not have to wonder whether different words, contexts, or actions mean the same thing. These should meet industry standards that are expected by the user  | 
+| 5 | **Error Prevention**: Provide enough clarity on the webpage so users are not questioning their actions and whether these actions will result in an error. Have an available check embedded for them and present users with a confirmation option before they commit to an action (if this cannot be prevented in the first place).  | 
+| 6 | **Recognition Rather than Recall**: Minimize the user's memory load by making elements, actions, and options visible. The user should not have to remember information from one part of the interface to another. Information required to use the design (e.g. field labels or menu items) should be visible or easily retrievable when needed. |
+| 7 | **Flexibility & Efficiency of Use**: The design should be easier to use for all the user groups. | 
+| 8 | **Aesthetic & Minimalist Design**: Grab users attention towards the action need to be done there. |
+| 9 | **Help Users Recognize, Diagnose, & Recover from Errors**: Error messages should be clear and easy to understand and intrepret (wihtout code), while explaining the issue and the solution to move forward. |
+| 10 | **Help & Documentation**: Ideally, the user is able to intuitively explore the site through past experience and clear directions (without explanation), however, it may be beneficial to provide documentment for users that may be unsure.  | 
 
 Severity Rating: Severity of Usability Problems
 | ------------------------ | 
