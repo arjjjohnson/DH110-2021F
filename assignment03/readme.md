@@ -2,9 +2,9 @@
 #### Research and Documentation by Amanda Johnson
 ---
 
-# Qualitative User Research: Learning from people in context
+# Qualitative User Research: Learning from People in Context
 
-## Introduction Steps 
+### Introduction Steps 
 
 For this project, I chose to explore the connection between technology and accessing services, specifically bringing my research interest into this and discussing specifically those in the Autism community. Therefore, I wanted to understand two various contexts. The first was at the service level, in this case hospitals. I was able to observe a virtual meeting (and unfortunately was unable to record. However, my thoughts and takeaways are highlighted below). I felt that it was important to understand how this context communicates with the community. 
 
