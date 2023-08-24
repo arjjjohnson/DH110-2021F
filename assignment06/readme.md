@@ -1,4 +1,5 @@
-### Author: Amanda Johnson
+#### Research and Documentation by Amanda Johnson
+---
 
 # UX Interface Design
 
