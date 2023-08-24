@@ -1,7 +1,7 @@
 ### Wireframing
 ### Author: Amanda Johnson
 
-# UX Wireframing (Paper Protoype)
+# UX Wireframing
 
 ## Overview
 ### Description
